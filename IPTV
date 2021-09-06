@@ -149,3 +149,5 @@ http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney Channel Hindi
 http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney Channel Hindi
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_960x540_2000k_594261.ts
