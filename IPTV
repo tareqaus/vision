@@ -140,7 +140,7 @@ http://tv.aliflailabd.com:8989/star-sports-select1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
 http://tv.aliflailabd.com:8989/star-sports-select2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket
-https://list.iptvcat.com/my_list/s/b5e639c9988cc1782cb5d8d5b685aefb.m3u8
+https://n01.quest123.top:8088/live/webcricn02/playlist.m3u8?vidictid=188774109205&id=114503&pk=c51a58c374f45b45777f2b0d10d487311f49959d0bdfe7752a32453bcb4639f3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports Football
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports
