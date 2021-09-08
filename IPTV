@@ -8,7 +8,7 @@ http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
 http://livespecial.hjkm.info:11991/minerva/tensports/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjEgODo1OTozMyBBTSZoYXNoX3ZhbHVlPStvWjJ5SHFMTWRBU2I3YTJwTGhTTXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
-https://bdlivetv.xyz:2096/Sp0rts/tsports/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjEgODo1MDo0OCBBTSZoYXNoX3ZhbHVlPVNzRDU5QnlGdTV6L1VRSHZFTUEzbGc9PSZ2YWxpZG1pbnV0ZXM9NQ==
+http://safelive.hjkm.info:11991/mars2/skysportscrickethd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjEgOTowNToxOCBBTSZoYXNoX3ZhbHVlPVF6UnpMb2lyMzlZQXVmampZKzUrbUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD 2
