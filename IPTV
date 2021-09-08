@@ -163,3 +163,5 @@ http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney Channel
 http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.ufoiptv.com/channels/sd-channelv.jpg" group-title="MUSIC",[V] Music
+https://bit.ly/33rDbve
