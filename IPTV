@@ -8,7 +8,7 @@ http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
 https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8?nimblesessionid=86756463&wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjEgMTozNjoyNCBBTSZoYXNoX3ZhbHVlPVFmVDlRWk54MmVUREF2aWVQQldLaUE9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
-https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8?nimblesessionid=86789787&wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjEgMjoxOTozNCBBTSZoYXNoX3ZhbHVlPUVmNjdYQThNd3JaUEZnMEtMRmJmTXc9PSZ2YWxpZG1pbnV0ZXM9NjA=
+https://streamer-2.toffeelive.com/mobile_hls/channel_24/5/b2f849d7e0eeb5dcab1080e6813f8532/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD 2
