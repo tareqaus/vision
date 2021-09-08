@@ -7,6 +7,8 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
 https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8?nimblesessionid=86756463&wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjEgMTozNjoyNCBBTSZoYXNoX3ZhbHVlPVFmVDlRWk54MmVUREF2aWVQQldLaUE9PSZ2YWxpZG1pbnV0ZXM9NjA=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
+https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/l_9757486_5562105_12518.ts?nimblesessionid=86789787&wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjEgMjoxOTozNCBBTSZoYXNoX3ZhbHVlPUVmNjdYQThNd3JaUEZnMEtMRmJmTXc9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
 https://cdn.oc.bd-cast.com/radiant/ekushey.m3u8?st=F7qvK6HkSqbzQEK8NopJ3g&e=1631067142
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
