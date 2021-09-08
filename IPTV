@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD
 http://indo51.gcdn.co/BANGLA-BD-GAZITV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
-https://live.bongobd.com/hls/0kEm3THSbkADuohx5MlURg/1631073806/shomoy_tv_mid/index.m3u8
+https://a.jazzy.to:30443/live/113/chunks.m3u8?nimblesessionid=6342859&wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjEgMzoxMzoyMiBBTSZoYXNoX3ZhbHVlPUErenFrcklwdnJNdzVmNHdaM1lDMUE9PSZ2YWxpZG1pbnV0ZXM9MTIw
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
