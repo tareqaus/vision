@@ -207,3 +207,5 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla", Boishakhi TV
 http://mag.rapidswiss.hitv.one:80/zVUil80871/Et9Rp5298/37132
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla", Desh.TV
+http://mag.rapidswiss.hitv.one:80/zVUil80871/Et9Rp5298/16780
