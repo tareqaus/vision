@@ -197,6 +197,6 @@ https://39.pkcast123.me:999/hls/6k6bIiEf4320190929.m3u8?hls2endtime=1631194800&h
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 #EXTINF:-1 tvg-logo="src="https://pbs.twimg.com/profile_images/611838002206146560/UQS0dlPO.jpg"" group-title="English", THRILLS 
 http://210.210.129.106:80/session/940a018e-afd5-11eb-9476-a0f3b200492f/qwr9ew/s/s34/01.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfiUY5l_OBmTWGwd8SygddNMQOD-ynndbw&usqp=CAU" group-title="NEWS",BBC WORLD NEWS
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 
