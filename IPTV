@@ -193,3 +193,9 @@ http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
 http://livezer0.hjkm.info:11991/neptune/dsportshd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjEgOToxMToxOSBBTSZoYXNoX3ZhbHVlPWdmQ2ZNcXBqbFp4Tm5DMUxJNmxIWkE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney Channel
 https://39.pkcast123.me:999/hls/6k6bIiEf4320190929.m3u8?hls2endtime=1631194800&hls2starttime=0&hls2hash=SJwsd8w8crJE_6zsTr-BAIysC16TAoFiPCjNJ7fnNyc=
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="English",MBC 2 (1080p) 
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+
+
+
+
