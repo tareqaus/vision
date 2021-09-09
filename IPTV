@@ -189,4 +189,5 @@ http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="Lifetime Movie Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1200px-LMN_logo_2019.svg.png" group-title="English",Lifetime Movie Network HD
 http://livezer0.hjkm.info:11991/neptune/dsportshd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjEgOToxMToxOSBBTSZoYXNoX3ZhbHVlPWdmQ2ZNcXBqbFp4Tm5DMUxJNmxIWkE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney Channel
+http://safelive.hjkm.info:11991/mars/skysportscrickethd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjEgOToxNjozMSBBTSZoYXNoX3ZhbHVlPWJqSHZVcnVWR0Nvd2dxaS96b3lBdUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
