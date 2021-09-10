@@ -160,7 +160,7 @@ http://tv.aliflailabd.com:8989/star-sports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Live Cricket", Star Sports 2
 http://jupiter.bdcabletv.com/ENC-4/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
-http://tv.aliflailabd.com:8989/star-sports-select1/index.m3u8
+http://starlive.hjkm.info:11991/junosafe/starsportsselect1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDIxIDQ6MjY6MTggQU0maGFzaF92YWx1ZT1SSkdBeWg1K0cyUFR0ZWdWVTBDeTZRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
 http://tv.aliflailabd.com:8989/star-sports-select2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Live Cricket", Sky Sports Cricket
