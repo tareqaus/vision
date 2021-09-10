@@ -130,7 +130,7 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="Movie Channels", Star Movies
 http://jupiter.bdcabletv.com/ENC-17/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="Movie Channels", Zee Cafe HD
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+https://ayushiz5tv.herokuapp.com?c=0-9-zeecafehd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Movie Channels", Sony Pix HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQAWK6A.png" group-title="Movie Channels", & Flix HD
@@ -201,3 +201,7 @@ http://mag.rapidswiss.hitv.one:80/zVUil80871/Et9Rp5298/16780
 http://mag.rapidswiss.hitv.one:80/zVUil80871/Et9Rp5298/37136
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangla", SATV
 http://mag.rapidswiss.hitv.one:80/zVUil80871/Et9Rp5298/16789
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentaries", History Channel 
+http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentaries", Animal Planet HD 
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
