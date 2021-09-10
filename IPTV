@@ -171,15 +171,15 @@ http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjBLKMMp/unnamed.jpg" group-title="Sports",BT Sport 2
 https://m01.quest123.top:8088/live/webcricp01/playlist.m3u8?vidictid=188771630337&id=113431&pk=c51a58c374f45b45777f2b0d10d487311f49959d0bdfe7752a32453bcb4639f3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids", Sonic Nickeloden
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids Channels", Sonic Nickeloden
 http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids Channels", Nick 
 http://70.39.83.58:8278/nickhindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network Hindi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids Channels", Cartoon Network Hindi
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids", Pogo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids Channels", Pogo
 http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids Channels", Disney Channel
 http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movie Channels",MBC 2 (1080p) 
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
@@ -209,4 +209,5 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 http://watchindia.net:8880/live/33253/72963/2102.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tD8b5nh.png" group-title="Movie Channels", Fox Movies HD 
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids Channels", Cartoon Network English 
+http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
