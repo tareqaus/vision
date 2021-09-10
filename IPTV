@@ -211,3 +211,10 @@ http://watchindia.net:8880/live/33253/72963/2102.ts
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids Channels", Cartoon Network English 
 http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="English Music & Fashion", Fashion TV Paris 
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="English Music & Fashion", Fashion TV Midnite Secrets 
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+
+
+
