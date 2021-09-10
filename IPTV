@@ -197,13 +197,13 @@ https://39.pkcast123.me:999/hls/6k6bIiEf4320190929.m3u8?hls2endtime=1631194800&h
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 #EXTINF:-1 tvg-logo="src="https://pbs.twimg.com/profile_images/611838002206146560/UQS0dlPO.jpg"" group-title="English", THRILLS 
 http://210.210.129.106:80/session/940a018e-afd5-11eb-9476-a0f3b200492f/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfiUY5l_OBmTWGwd8SygddNMQOD-ynndbw&usqp=CAU" group-title="NEWS",BBC WORLD NEWS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfiUY5l_OBmTWGwd8SygddNMQOD-ynndbw&usqp=CAU" group-title="NEWS CHANNELS",BBC WORLD NEWS
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="NEWS",Al Jazeera English 
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English" tvg-logo="https://img.favpng.com/18/17/18/al-jazeera-english-television-channel-doha-png-favpng-KwqFnxGnxPXEsnYJrppmJtkWa.jpg" group-title="NEWS CHANNELS",Al Jazeera English 
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/05/CNN-Logo.jpg" group-title="NEWS",CNN
+#EXTINF:-1 tvg-ID="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/05/CNN-Logo.jpg" group-title="NEWS CHANNELS",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.trospercommunications.com/blog/wp-content/uploads/2017/10/logo_abc_news.png" group-title="NEWS",ABC News
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="https://www.clipartmax.com/png/middle/23-233552_abc-news-logo-vector.png" group-title="NEWS CHANNELS",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla", Boishakhi TV
 http://mag.rapidswiss.hitv.one:80/zVUil80871/Et9Rp5298/37132
