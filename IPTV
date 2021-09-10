@@ -39,27 +39,27 @@ http://indo51.gcdn.co/BANGLA-BD-DEEPTOTV/tracks-v1a1/mono.m3u8
 http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangla", Gazi TV HD 2
 http://137.59.155.77:8088/hls/01gazitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla SD
 http://jupiter.bdcabletv.com/ColorsBangla_ENC/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla", Enter 10 Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD
 http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD 2
 http://jupiter.bdcabletv.com:80/JalshaMovies/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla", Sun Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/e5Ldh7e.png" group-title = "Bangla", Zee Bangla
 http://d2k667g61yse6h.cloudfront.net/101.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD
 http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Bangla", Sony Aath
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aath
 http://livezer0.hjkm.info:11991/vesta/sonyaath/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjEgOTowMzo1OSBBTSZoYXNoX3ZhbHVlPUFXdTV4cUpXOW1EbU1GRkpJbkRoT0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Bangla", Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Indian Bangla", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
