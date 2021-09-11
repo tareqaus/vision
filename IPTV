@@ -99,14 +99,11 @@ http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 http://14.199.164.20:4001/play/a0mt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Hindi Music", 9X Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="Indian Bangla", Dhoom Music
-http://103.205.133.48/hls/dhoommusic.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentaries", Animal Planet HD Hindi
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="Documentaries", BBC Earth
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentaries", Discovery SD Hindi
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentaries", Discovery Bangla HD 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentaries", National Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentaries", Travel XP HD
@@ -116,7 +113,6 @@ http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hX7qQFf.png" group-title="Movie Channels", Fox Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Movie Channels", AXN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="Movie Channels", Star Movies
 http://jupiter.bdcabletv.com/ENC-17/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="Movie Channels", Zee Cafe HD
