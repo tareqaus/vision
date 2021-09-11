@@ -231,7 +231,7 @@ http://str24.l9574.com/515.stream/index.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="BD IPTV", Channel S 
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelsbd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="BD IPTV", Nandan TV 
+#EXTINF:-1 tvg-id="" tvg-name="Nandan TV ( Canada )" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/0c/71/0e0c71d1-587e-4de6-66cc-1bd1dc23b116/source/512x512bb.jpg" group-title="BD IPTV",Nandan TV  
 http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="BD IPTV", Time TV USA 
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/chunks.m3u8
