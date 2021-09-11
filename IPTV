@@ -104,7 +104,7 @@ http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FSiZKKO.png" group-title="Hindi Music", Music India
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+http://14.199.164.20:4001/play/a0mt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Hindi Music", 9X Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="Indian Bangla", Dhoom Music
@@ -233,4 +233,7 @@ http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
 http://tvflix03.ddns.net/b4u_music-pak/video.m3u8
 
 
+
+http://14.199.164.20:4001/play/a0p2/index.m3u8
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 http://14.199.164.20:4001/play/a0wk/index.m3u8
