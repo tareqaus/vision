@@ -231,9 +231,9 @@ http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3
 http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="Hindi Music", B4U Music 
 http://14.199.164.20:4001/play/a0wk/index.m3u8
-#EXTINF:-1 tvg-id="MtunesPlus.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/Rt7k6E3.png" group-title="India",Mtunes Plus (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="MtunesPlus.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/Rt7k6E3.png" group-title="Hindi Music",Mtunes Plus (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0p2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel V" tvg-logo="https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo_400x400.jpeg" group-title="ENGLISH MUSIC & FASHION",Channel V
+#EXTINF:-1 tvg-id="" tvg-name="Channel V" tvg-logo="https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo_400x400.jpeg" group-title="English Music & Fashion",Channel V
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="BD IPTV", Alpona TV
