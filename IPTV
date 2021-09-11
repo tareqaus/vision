@@ -230,10 +230,10 @@ http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuxMR1X.png" group-title="Sports", Ten Sports BDC 
 http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="Hindi Music", B4U Music 
-http://tvflix03.ddns.net/b4u_music-pak/video.m3u8
+http://14.199.164.20:4001/play/a0wk/index.m3u8
 
 
 
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
-http://14.199.164.20:4001/play/a0wk/index.m3u8
+
