@@ -127,9 +127,11 @@ http://indo51.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Hindi Music",Masti 
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/udp1a1b.png" group-title="Hindi Music", MTV                                
+http://indo51.gcdn.co/hindi-MTVINDIA/tracks-v1a1/mono.m3u8
 
-
-                                    ***** Documentaries *****
+                                   
+ ***** Documentaries *****
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentaries", Animal Planet HD Hindi
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
@@ -152,7 +154,8 @@ https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 http://mygoodstream.pw/proxy.php/https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
 
-                                ***** Movie Channels *****
+                             
+   ***** Movie Channels *****
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="Movie Channels", Star Movies
@@ -173,13 +176,16 @@ https://ayushiz5tv.herokuapp.com?c=0-9-zeecafehd
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movie Channels",MBC 2 (1080p) 
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tD8b5nh.png" group-title="Movie Channels", Fox Movies HD 
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 
-                                     
-                                     
-                                     ***** Live Cricket *****
+                                   
+                                    
+
+
+
+
+                          ***** Live Cricket *****
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Cricket",T Sports HD
