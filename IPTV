@@ -121,6 +121,8 @@ http://14.199.164.20:4001/play/a0mt/index.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="Hindi Music", B4U Music 
 http://14.199.164.20:4001/play/a0wk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="Hindi Music", B4U Music HD
+http://indo51.gcdn.co/hindi-B4UMUSIC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Hindi Music", Zoom SK
 http://indo51.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MtunesPlus.in" tvg-country="IN" tvg-language="Hindi tvg-logo="https://i.imgur.com/Rt7k6E3.png" group-title="Hindi Music",Mtunes Plus (576p) [Not 24/7]
