@@ -281,7 +281,7 @@ http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9U7Y6d.png" group-title="BD IPTV", Alpona TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fYqnjCu.png" group-title="BD IPTV", Bangla Channel 
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.28f0527c7fa3052ff611b4c0fefad250?rik=6%2fHtjT836FUJdg&riu=http%3a%2f%2fwww.triwave-bd.com%2fwp-content%2fuploads%2f2018%2f10%2fBANGLA-TV_LOGO.jpg&ehk=H%2f2LJkNgnwA8TU06LjnxegSes0hGAJMuwuub9xmMmzk%3d&risl=&pid=ImgRaw&r=0" group-title="BD IPTV", Bangla Channel 
 http://str24.l9574.com/515.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l789kW0DDeXjzS0CCZFqypCMfuAub30fMGN3zg=s900-c-k-c0xffffffff-no-rj-mo" group-title="BD IPTV", Biswa Bangla
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
