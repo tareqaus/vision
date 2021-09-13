@@ -35,7 +35,7 @@ http://indo51.gcdn.co/BANGLA-BD-DESHTV/tracks-v1a1/mono.m3u8
 https://cdn.nowhdtime.com.bd/j-BijoyTV/tracks-v1a1/mono.m3u8                
                             
 
- ***** Bangla News Channels *****
+        ***** Bangla News Channels *****
                              
                              
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla News Channels", Channel 24 HD
@@ -54,7 +54,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 
-                             ***** Indian Bangla *****
+            ***** Indian Bangla *****
                       
                       
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD
@@ -83,7 +83,7 @@ http://jupiter.bdcabletv.com/SonyAath/video.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
 
-                               ***** Hindi Entertainment *****
+           ***** Hindi Entertainment *****
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi Entertainment", Sony Entertainment HD
@@ -116,7 +116,7 @@ http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 
 
 
-                                   ***** Hindi Music *****
+            ***** Hindi Music *****
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FSiZKKO.png" group-title="Hindi Music", Music India
 http://14.199.164.20:4001/play/a0mt/index.m3u8
@@ -134,7 +134,7 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 http://indo51.gcdn.co/hindi-MTVINDIA/tracks-v1a1/mono.m3u8
 
                                    
- ***** Documentaries *****
+             ***** Documentaries *****
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentaries", Animal Planet HD Hindi
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
@@ -158,7 +158,7 @@ http://mygoodstream.pw/proxy.php/https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
 
                              
-   ***** Movie Channels *****
+              ***** Movie Channels *****
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="Movie Channels", Star Movies
@@ -188,7 +188,7 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 
 
 
-                          ***** Live Cricket *****
+               ***** Live Cricket *****
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Cricket",T Sports HD
@@ -214,7 +214,7 @@ http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3
 
                                        
                                        
-                                       ***** Sports *****
+                      ***** Sports *****
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six 
@@ -241,7 +241,7 @@ https://m01.quest123.top:8088/live/webcricp01/playlist.m3u8?vidictid=18877163033
 http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8?token=hubtvapp
 
 
-                                   ***** Kids Channels *****
+           ***** Kids Channels *****
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids Channels", Cartoon Network English 
@@ -260,7 +260,7 @@ http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
 
 
-                                        ***** News Channels *****
+                   ***** News Channels *****
                                         
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfiUY5l_OBmTWGwd8SygddNMQOD-ynndbw&usqp=CAU" group-title="News Channels",BBC WORLD NEWS
@@ -276,7 +276,7 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 
 
 
-                                     ***** English Music & Fashion *****
+           ***** English Music & Fashion *****
 
 
 
@@ -293,7 +293,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mid
 
   
                                    
-                                   ***** BD IPTV *****
+                ***** BD IPTV *****
   
   
  
@@ -316,7 +316,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 
-                       ***** FM Radio ***** 
+             ***** FM Radio ***** 
 
 
 
