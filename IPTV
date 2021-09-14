@@ -157,28 +157,31 @@ http://mygoodstream.pw/proxy.php/https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
 
                              
-              ***** Movie Channels *****
+              ***** English Movie Channels *****
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="Movie Channels", Star Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movie Channels", Star Movies
 http://jupiter.bdcabletv.com/ENC-17/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="Movie Channels", HBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English Movie Channels", HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3Caapww.png" group-title="Movie channels", Rakuten TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Caapww.png" group-title="English Movie channels", Rakuten TV 
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="Movie Channels", Star World BDC 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWTsTa6.png" group-title="English Movie Channels", Dove Channel 
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English Movie Channels", Star World BDC 
 http://jupiter.bdcabletv.com/ENC-2/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="Movie Channels", Movies Now HD 
+#EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English Movie Channels", Movies Now HD 
 http://watchindia.net:8880/live/33253/72963/2102.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hX7qQFf.png" group-title="Movie Channels", Fox Life HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hX7qQFf.png" group-title="English Movie Channels", Fox Life HD
 http://143.244.60.10/ENGLISH__FOX_LIFE_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Movie Channels", AXN 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movie Channels", AXN 
 https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="Movie Channels", Zee Cafe HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English Movie Channels", Zee Cafe HD
 https://ayushiz5tv.herokuapp.com?c=0-9-zeecafehd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Movie Channels", Sony Pix HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English Movie Channels", Sony Pix HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tD8b5nh.png" group-title="Movie Channels", Fox Movies HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tD8b5nh.png" group-title="English Movie Channels", Fox Movies HD 
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 
                                    
