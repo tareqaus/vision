@@ -153,7 +153,10 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentaries", Travel XP HD 
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentaries", National Geographic Wild
+http://stream.tvtap.live:8081/live/us-natgeowild.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjQxOjI3IEFNJmhhc2hfdmFsdWU9UW1remtuL3MzcXU2Ukx3OEdRamhodz09JnZhbGlkbWludXRlcz0yMA==
 http://mygoodstream.pw/proxy.php/https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+Food network 
+http://stream.tvtap.live:8081/live/us-food-network.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDEyOjA4OjE2IFBNJmhhc2hfdmFsdWU9bUFsbnRyM0pXSnVNY2Y3STJYZnN1QT09JnZhbGlkbWludXRlcz0yMA==
 
 
                              
@@ -183,8 +186,14 @@ https://ayushiz5tv.herokuapp.com?c=0-9-zeecafehd
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tD8b5nh.png" group-title="English Movie Channels", Fox Movies HD 
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-
-                                   
+Comedy central
+http://stream.tvtap.live:8081/live/cc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDEyOjAwOjQ5IFBNJmhhc2hfdmFsdWU9QkJtaGtyUlI1ZTIwb2NZei9hSmh4Zz09JnZhbGlkbWludXRlcz0yMA==
+Lifetime
+http://stream.tvtap.live:8081/live/lifetimeuk.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDEyOjAyOjQyIFBNJmhhc2hfdmFsdWU9WG9sT2ZVai8rVCtGWlk5b1lEQzd1Zz09JnZhbGlkbWludXRlcz0yMA==
+TNT
+http://stream.tvtap.live:8081/live/us-tnt.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDEyOjAzOjUwIFBNJmhhc2hfdmFsdWU9dzI2aytHNDRuL2k0Nkk0aXdrR05WQT09JnZhbGlkbWludXRlcz0yMA==
+LMN
+http://stream.tvtap.live:8081/live/us-lmn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDEyOjA2OjM4IFBNJmhhc2hfdmFsdWU9SDcxS3Q1aERnYWM0M3hsUktTeXhXQT09JnZhbGlkbWludXRlcz0yMA==                                   
                                     
 
 
@@ -246,9 +255,21 @@ https://m01.quest123.top:8088/live/webcricp01/playlist.m3u8?vidictid=18877163033
 http://stream.tvtap.live:8081/live/tr-bein1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjM1OjIxIEFNJmhhc2hfdmFsdWU9bzU1U1dPTmFqeVRxTjRhV2hpOFpiUT09JnZhbGlkbWludXRlcz0yMA==
 https://cdn1-7p.teleuptv.net/88c3358a-4f67-4c37-a36b-aaada997d447/tracks-v3a1/mono.m3u8
 http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8?token=hubtvapp
+Tennis
+http://stream.tvtap.live:8081/live/ustennis.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjQ3OjM4IEFNJmhhc2hfdmFsdWU9cVpBanFUbHI2ZVpiM2I4a1hzQ0UxUT09JnZhbGlkbWludXRlcz0yMA==
+Wwe
+http://stream.tvtap.live:8081/live/wwe.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjQ5OjAwIEFNJmhhc2hfdmFsdWU9My9xRmUyd0NRZVlrbllRZGVGYytCQT09JnZhbGlkbWludXRlcz0yMA==
+Bt sport 3
+http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjUyOjQ4IEFNJmhhc2hfdmFsdWU9TnhzSXBOU1RoMVh1a291MThWOStXQT09JnZhbGlkbWludXRlcz0yMA==
+Bt sport 2
+http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjUzOjUwIEFNJmhhc2hfdmFsdWU9aUhGZ2xFSFhwRVQ0UWkxWWJ6azMzQT09JnZhbGlkbWludXRlcz0yMA==
+Bt sport 1
+http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjU0OjM0IEFNJmhhc2hfdmFsdWU9SU1qd0RTVkhvdllyeFpEYi9lTStpdz09JnZhbGlkbWludXRlcz0yMA==
+Bein sport USA
+http://stream.tvtap.live:8081/live/beinus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjU2OjAyIEFNJmhhc2hfdmFsdWU9MFRxMmYxRmJQcTJuOGlZdnpmb2UyUT09JnZhbGlkbWludXRlcz0yMA==
+       
 
-
-           ***** Kids Channels *****
+    ***** Kids Channels *****
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids Channels", Cartoon Network English 
