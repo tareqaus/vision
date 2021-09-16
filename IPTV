@@ -248,16 +248,15 @@ https://cdn1-7p.teleuptv.net/88c3358a-4f67-4c37-a36b-aaada997d447/tracks-v3a1/mo
 http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8?token=hubtvapp
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRUzt942A75N9WqHLP8wlxxUi2-rWEkcseRlHn9=s900-c-k-c0x00ffffff-no-rj" group-title="Sports", Tennis
 http://stream.tvtap.live:8081/live/ustennis.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjQ3OjM4IEFNJmhhc2hfdmFsdWU9cVpBanFUbHI2ZVpiM2I4a1hzQ0UxUT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE Network" tvg-logo="https://www.clipartkey.com/mpngs/m/91-911374_wwe-logo-png-wwe-network-logo-png.png" group-title="Sports", WWE Network
-http://stream.tvtap.live:8081/live/wwe.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjQ5OjAwIEFNJmhhc2hfdmFsdWU9My9xRmUyd0NRZVlrbllRZGVGYytCQT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 HD UK" tvg-logo="https://archive.org/download/BtSport1Hd_201708/bt%20sport%201%20hd.png" group-title="Sports", BT Sport 1 
-http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjU0OjM0IEFNJmhhc2hfdmFsdWU9SU1qd0RTVkhvdllyeFpEYi9lTStpdz09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport Europe HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGoBrjoDk-vay0500nf9jqYEavA_Cl155e1w&usqp=CAU" group-title="Sports", BT Sport 2
-http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjUzOjUwIEFNJmhhc2hfdmFsdWU9aUhGZ2xFSFhwRVQ0UWkxWWJ6azMzQT09JnZhbGlkbWludXRlcz0yMA==
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1073335192964587521/6qhJ5cT7.jpg" group-title="Sports", Bein sport Australia
 http://stream.tvtap.live:8081/live/beinus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjU2OjAyIEFNJmhhc2hfdmFsdWU9MFRxMmYxRmJQcTJuOGlZdnpmb2UyUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 tvg-logo="https://archive.org/download/BtSport1Hd_201708/bt%20sport%201%20hd.png" group-title="Sports", BT Sport 1 
+http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjU0OjM0IEFNJmhhc2hfdmFsdWU9SU1qd0RTVkhvdllyeFpEYi9lTStpdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGoBrjoDk-vay0500nf9jqYEavA_Cl155e1w&usqp=CAU" group-title="Sports", BT Sport 2
+http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjUzOjUwIEFNJmhhc2hfdmFsdWU9aUhGZ2xFSFhwRVQ0UWkxWWJ6azMzQT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 tvg-logo="https://s1.ticketm.net/tm/en-au/dam/a/99b/d5548d8d-4f50-49e7-a7ea-71aad0b2899b_1332321_CUSTOM.jpg" group-title= "Sports" WWE Network
+http://stream.tvtap.live:8081/live/wwe.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjQ5OjAwIEFNJmhhc2hfdmFsdWU9My9xRmUyd0NRZVlrbllRZGVGYytCQT09JnZhbGlkbWludXRlcz0yMA==
+
        
 
     ***** Kids Channels *****
