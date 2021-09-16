@@ -183,8 +183,6 @@ https://ayushiz5tv.herokuapp.com?c=0-9-zeecafehd
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tD8b5nh.png" group-title="English Movie Channels", Fox Movies HD 
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Comedy_Central.svg/150px-Comedy_Central.svg.png" group-title="English Movie Channels", COMEDY CENTRAL
-http://stream.tvtap.live:8081/live/cc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDEyOjAwOjQ5IFBNJmhhc2hfdmFsdWU9QkJtaGtyUlI1ZTIwb2NZei9hSmh4Zz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://watchindia.net/images/channels/usa/TNT.png" group-title="English Movie Channels", TNT
 http://stream.tvtap.live:8081/live/us-tnt.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDEyOjAzOjUwIFBNJmhhc2hfdmFsdWU9dzI2aytHNDRuL2k0Nkk0aXdrR05WQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSsitgphmAnO5SWcQ1ENUpTUN89_i93TfnlMI8k=s900-c-k-c0x00ffffff-no-rj" group-title="English Movie Channels", LMN
