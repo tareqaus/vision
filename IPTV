@@ -185,7 +185,7 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?to
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Comedy_Central.svg/150px-Comedy_Central.svg.png" group-title="English Movie Channels", COMEDY CENTRAL
 http://stream.tvtap.live:8081/live/cc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDEyOjAwOjQ5IFBNJmhhc2hfdmFsdWU9QkJtaGtyUlI1ZTIwb2NZei9hSmh4Zz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/SDvVNFZEZMHDBqEayeR7ZG-320-80.png" group-title="English Movie Channels", TNT
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://watchindia.net/images/channels/usa/TNT.png" group-title="English Movie Channels", TNT
 http://stream.tvtap.live:8081/live/us-tnt.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDEyOjAzOjUwIFBNJmhhc2hfdmFsdWU9dzI2aytHNDRuL2k0Nkk0aXdrR05WQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSsitgphmAnO5SWcQ1ENUpTUN89_i93TfnlMI8k=s900-c-k-c0x00ffffff-no-rj" group-title="English Movie Channels", LMN
 http://stream.tvtap.live:8081/live/us-lmn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDEyOjA2OjM4IFBNJmhhc2hfdmFsdWU9SDcxS3Q1aERnYWM0M3hsUktTeXhXQT09JnZhbGlkbWludXRlcz0yMA==                                   
