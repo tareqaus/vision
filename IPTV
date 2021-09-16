@@ -147,8 +147,8 @@ http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentaries", Travel XP HD 
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentaries", National Geographic Wild
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/BcfhSWwsYeWzpbXUoUoLqA.jpeg" group-title="Documentaries", Food network 
+
+ 
 
 
 
