@@ -108,6 +108,7 @@ http://jupiter.bdcabletv.com/ENC-10/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi Entertainment", UTV Movies
 http://jupiter.bdcabletv.com/ENC-20/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Entertainment", Zee Cinema 
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 
 
