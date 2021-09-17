@@ -200,7 +200,7 @@ http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8CJxDY.png" group-title="Live Cricket", Super Sports Cricket
 https://s07.quest123.top:8088/live/webcrice06/playlist.m3u8?vidictid=18877826917&id=114472&pk=c51a58c374f45b45777f2b0d10d487311f49959d0bdfe7752a32453bcb4639f3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Willow_Cricket.PNG/200px-Willow_Cricket.png" group-title="Live Cricket", Willow HD
-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow HD USA
+logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Live Cricket", Willow HD USA
 http://watchindia.net:8880/live/60275/20486/1067.m3u8
 https://s03.quest123.top:8088/live/webcricm04/playlist.m3u8?vidictid=188777904818&id=114515&pk=c51a58c374f45b45777f2b0d10d487311f49959d0bdfe7752a32453bcb4639f3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z1LDOcz.png" group-title="Live Cricket", Fox 501 HD
