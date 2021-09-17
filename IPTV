@@ -119,6 +119,8 @@ http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 http://14.199.164.20:4001/play/a0mt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Hindi Music", 9X Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VuEsPDV.png" group-title="Hindi Music", 8XM 
+http://221.120.204.4/8XM-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="Hindi Music", B4U Music 
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Hindi Music", Zoom SK
@@ -158,6 +160,7 @@ https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movie Channels", Star Movies
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 http://jupiter.bdcabletv.com/ENC-17/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English Movie Channels", HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -167,6 +170,7 @@ https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English Movie Channels", Star World BDC 
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 http://jupiter.bdcabletv.com/ENC-2/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English Movie Channels", Movies Now HD 
 http://watchindia.net:8880/live/33253/72963/2102.ts
