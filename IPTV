@@ -226,6 +226,7 @@ http://jupiter.bdcabletv.com/SonySix/video.m3u8
 http://137.59.155.77:8088/hls/03sonyten1.m3u8
 http://jupiter.bdcabletv.com/ENC-19/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD 2
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2 HD
 http://137.59.155.77:8088/hls/04sonyten2.m3u8
 http://jupiter.bdcabletv.com/ENC-7/video.m3u8
