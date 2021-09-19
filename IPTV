@@ -158,8 +158,8 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentaries",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentaries", National Geographic Wild
+http://46.249.32.110:6554/uk2020/NatGeoWild/chunks.m3u8?nimblesessionid=1802556&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIxIDExOjUwOjI3IFBNJmhhc2hfdmFsdWU9ZXlBK0hTamFwenBEYU5PZkEwaE5SUT09JnZhbGlkbWludXRlcz02
 
  
 
