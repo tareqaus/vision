@@ -233,7 +233,8 @@ http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3
                                        
                                        
                       ***** Sports *****
-
+http://stream2.grandma.fit/fs2.m3u8
+http://stream.tvtap.live:8081/live/nl-ziggoselect.stream/chunks.m3u8
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six 
 https://cdn.nowhdtime.com.bd/SonySix/tracks-v1a1/mono.m3u8
@@ -315,6 +316,7 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Vh1 Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="English Music & Fashion",Vh1 Europe
+http://stream.tvtap.live:8081/live/us-vh1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjM0OjAzIEFNJmhhc2hfdmFsdWU9d2FjRDcxaWtZYTBvdk90WklKeXliZz09JnZhbGlkbWludXRlcz0yMA==
 http://content-ause2-up-1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/f.m3u8?pbs=0ab75e9ca69641779a9b526d15a72d37
 #EXTINF:-1 tvg-id="" tvg-name="Channel V" tvg-logo="https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo_400x400.jpeg" group-title="English Music & Fashion",Channel V
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
