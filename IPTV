@@ -233,8 +233,13 @@ http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3
                                        
                                        
                       ***** Sports *****
+                      
+                      
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQBFp4jXZthHecBUHHJZPRfvybqxBp9luZTo9Xd=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",ESPN                      
 http://stream2.grandma.fit/fs2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Sports",ZIGGO SPORT
 http://stream.tvtap.live:8081/live/nl-ziggoselect.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://watchcricketmatch.com/wp-content/uploads/2020/12/GEO-SUPER-LIVE-LOGO-IMAGE-min.jpg" group-title="Sports",GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six 
 https://cdn.nowhdtime.com.bd/SonySix/tracks-v1a1/mono.m3u8
