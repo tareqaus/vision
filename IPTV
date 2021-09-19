@@ -185,6 +185,7 @@ http://jupiter.bdcabletv.com/ENC-2/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English Movie Channels", Movies Now HD 
 http://watchindia.net:8880/live/33253/72963/2102.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hX7qQFf.png" group-title="English Movie Channels", Fox Life HD
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 http://143.244.60.10/ENGLISH__FOX_LIFE_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movie Channels", AXN 
 https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
