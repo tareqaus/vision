@@ -174,6 +174,8 @@ http://jupiter.bdcabletv.com/ENC-17/video.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Caapww.png" group-title="English Movie Channels", Rakuten TV 
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English Movie Channels",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWTsTa6.png" group-title="English Movie Channels", Dove Channel 
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 
@@ -264,7 +266,8 @@ https://m01.quest123.top:8088/live/webcricp01/playlist.m3u8?vidictid=18877163033
 http://stream.tvtap.live:8081/live/ustennis.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjQ3OjM4IEFNJmhhc2hfdmFsdWU9cVpBanFUbHI2ZVpiM2I4a1hzQ0UxUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1073335192964587521/6qhJ5cT7.jpg" group-title="Sports", Bein sport Australia
 http://stream.tvtap.live:8081/live/beinus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjU2OjAyIEFNJmhhc2hfdmFsdWU9MFRxMmYxRmJQcTJuOGlZdnpmb2UyUT09JnZhbGlkbWludXRlcz0yMA==
-
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
 
        
