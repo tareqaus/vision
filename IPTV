@@ -117,6 +117,9 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/udp1a1b.png" group-title="Hindi Music", MTV                                
 http://indo51.gcdn.co/hindi-MTVINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" group-title="Hindi Music",Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8?token=soheliptv01826655778
+
 
                                    
              ***** Documentaries *****
@@ -168,7 +171,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWTsTa6.png" group-title="English Movie Channels", Dove Channel 
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English Movie Channels", Star World BDC 
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 http://jupiter.bdcabletv.com/ENC-2/video.m3u8
@@ -237,7 +239,6 @@ https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 http://137.59.155.77:8088/hls/03sonyten1.m3u8
 http://jupiter.bdcabletv.com/ENC-19/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD 2
-
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2 HD
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 http://137.59.155.77:8088/hls/04sonyten2.m3u8
@@ -388,7 +389,7 @@ http://45.64.135.88:8000/stream1
 
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8?token=soheliptv01826655778
+
 
 
 
