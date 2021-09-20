@@ -178,6 +178,8 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English Movie Channels",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English Movie Channels",Movie kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWTsTa6.png" group-title="English Movie Channels", Dove Channel 
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 
@@ -211,9 +213,9 @@ http://indo51.gcdn.co/BANGLA-BD-GAZITV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Cricket",T Sports FHD 
 http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8CJxDY.png" group-title="Live Cricket", Super Sports Cricket
-https://s07.quest123.top:8088/live/webcrice06/playlist.m3u8?vidictid=18877826917&id=114472&pk=c51a58c374f45b45777f2b0d10d487311f49959d0bdfe7752a32453bcb4639f3
+https://m01.quest123.top:8088/live/pakcricf21/playlist.m3u8?vidictid=188901045353&id=114466&pk=c51a58c374f45b45777f2b0d10d487311f49959d0bdfe7752a32453bcb4639f3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Willow_Cricket.PNG/200px-Willow_Cricket.png" group-title="Live Cricket", Willow Cricket 
-http://46.249.32.72:1245/sports2021/astrocricket/chunks.m3u8?nimblesessionid=9449228&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIxIDEyOjQwOjUxIEFNJmhhc2hfdmFsdWU9Slp4bmpXaWJqOWNGdVVnOGxBYWFLQT09JnZhbGlkbWludXRlcz02
+https://s07.quest123.top:8088/live/webcricn02/playlist.m3u8?vidictid=188902391852&id=114503&pk=c51a58c374f45b45777f2b0d10d487311f49959d0bdfe7752a32453bcb4639f3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z1LDOcz.png" group-title="Live Cricket", Fox 501 HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Live Cricket", Star Sports 1
@@ -392,15 +394,15 @@ http://45.64.135.88:8000/stream1
 
                Test code
 
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?token=soheliptv01826655778
-http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:ctvn_akd_plus_,b256,b512,b1024,b1824,.smil/chunklist_b512000.m3u8
+
+
 
 
 
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
 
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
