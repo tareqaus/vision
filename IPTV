@@ -129,6 +129,8 @@ http://indo51.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Hindi Music",Masti 
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W8qIZmQ.jpg" group-title="Hindi Music",MH 1
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/udp1a1b.png" group-title="Hindi Music", MTV                                
 http://indo51.gcdn.co/hindi-MTVINDIA/tracks-v1a1/mono.m3u8
 
@@ -178,7 +180,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English Movie Channels",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English Movie Channels",Movie kingdom
+#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22731/movie-kingdom/thumbv_20200717_232723.jpg" group-title="English Movie Channels",Movie kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWTsTa6.png" group-title="English Movie Channels", Dove Channel 
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
@@ -267,8 +269,8 @@ http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports
 http://server.nvisionbd.net:25461/live/ashrafulemon18/ashrafulemon18/1162.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RuxMR1X.png" group-title="Sports", Ten Sports
-http://46.249.32.114:9878/sports2021/tensportspk/chunks.m3u8?nimblesessionid=1884666&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIxIDEyOjMxOjA0IEFNJmhhc2hfdmFsdWU9Zlk3Q3lDWHZmbEFNNVNpcWhTSTNtQT09JnZhbGlkbWludXRlcz02
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjBLKMMp/unnamed.jpg" group-title="Sports",BT Sport 2
 http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDIxIDEwOjUyOjQ1IEFNJmhhc2hfdmFsdWU9QTNYZ1p1Q3hoeXBLUlNSdTdRWWdNZz09JnZhbGlkbWludXRlcz0yMA==
@@ -399,16 +401,11 @@ http://45.64.135.88:8000/stream1
 
 
 
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
-
-
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8?token=soheliptv01826655778
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8?token=soheliptv01826655778
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
 
 
 
