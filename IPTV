@@ -266,8 +266,8 @@ http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports
 http://server.nvisionbd.net:25461/live/ashrafulemon18/ashrafulemon18/1162.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RuxMR1X.png" group-title="Sports", Ten Sports BDC 
-http://46.249.32.114:9878/sports2021/tensportspk/chunks.m3u8?nimblesessionid=1777335&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIxIDEwOjMxOjA1IEFNJmhhc2hfdmFsdWU9S2xaS3FqRDUyZW4zSnZrb0NLV2lCZz09JnZhbGlkbWludXRlcz02
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RuxMR1X.png" group-title="Sports", Ten Sports
+http://46.249.32.114:9878/sports2021/tensportspk/chunks.m3u8?nimblesessionid=1884666&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIxIDEyOjMxOjA0IEFNJmhhc2hfdmFsdWU9Zlk3Q3lDWHZmbEFNNVNpcWhTSTNtQT09JnZhbGlkbWludXRlcz02
 http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjBLKMMp/unnamed.jpg" group-title="Sports",BT Sport 2
 http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDIxIDEwOjUyOjQ1IEFNJmhhc2hfdmFsdWU9QTNYZ1p1Q3hoeXBLUlNSdTdRWWdNZz09JnZhbGlkbWludXRlcz0yMA==
