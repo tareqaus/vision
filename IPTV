@@ -89,28 +89,19 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi Entertainment", Colors Hindi
 http://jupiter.bdcabletv.com/ENC-8/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi Entertainment", Star Bharat 
-http://jupiter.bdcabletv.com/ENC-14/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus
-http://jupiter.bdcabletv.com/StarPlus/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus HD
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi Entertainment", Zee TV HD
-http://jupiter.bdcabletv.com/ENC-9/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi Entertainment", & Pictures HD
-http://watchindia.net:8880/live/60275/20486/783.m3u8
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Entertainment", Sony Max 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Entertainment", Sony Max HD 
-http://jupiter.bdcabletv.com/SonyMax/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Entertainment", Star Gold HD
 http://jupiter.bdcabletv.com/ENC-10/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi Entertainment", UTV Movies
-http://jupiter.bdcabletv.com/ENC-20/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Entertainment", Zee Cinema 
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi Entertainment", Zee Action 
+http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
 
 
             ***** Hindi Music *****
@@ -225,7 +216,7 @@ http://46.249.32.150:3457/sports2021/starspselect1/chunks.m3u8?nimblesessionid=4
 http://watchindia.net:8880/live/33253/72963/1072.m3u8
 https://s01.quest123.top:8088/live/webcrict10/playlist.m3u8?vidictid=188832040280&id=113947&pk=c51a58c374f45b45777f2b0d10d487311f49959d0bdfe7752a32453bcb4639f3
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Live Cricket", Star Sports 2
-http://46.249.32.111:6677/sports2021/starspselect1/chunks.m3u8?nimblesessionid=2477429&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIxIDEwOjUyOjEwIEFNJmhhc2hfdmFsdWU9ZjhqSFBaTXEvTGloUDlGc3poL2V0dz09JnZhbGlkbWludXRlcz02
+http://babutv.aliflailabd.com:8989/star-sports-select2/index.m3u8
 http://jupiter.bdcabletv.com/ENC-4/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Live Cricket", Sky Sports Cricket
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
