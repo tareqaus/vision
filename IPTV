@@ -202,6 +202,7 @@ http://indo51.gcdn.co/BANGLA-BD-GAZITV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Cricket",T Sports FHD 
 http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8CJxDY.png" group-title="Live Cricket", Super Sports Cricket
+http://78.129.253.15:8030/ball3/tracks-v1a1/mono.m3u8?token=f0e700697bc90de6e9a08c8b532a66d27ada96dd-1632148847-1632148770
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIxIDI6MTI6MjEgUE0maGFzaF92YWx1ZT1ad3pXVktnak5nS2VCS1J5KzVkM0hnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Willow_Cricket.PNG/200px-Willow_Cricket.png" group-title="Live Cricket", Willow Cricket 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z1LDOcz.png" group-title="Live Cricket", Fox 501 HD
