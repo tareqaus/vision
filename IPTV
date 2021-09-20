@@ -62,7 +62,7 @@ https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD
 http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", DD Bangla
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTKiYI1K6Bi5_CpRvAjo1_n6t6CJ22rXoPz3d2RqQ=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",DD Bangla
 http://ahaohoo.com/.1/tv1/play.php?id=2493&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
@@ -164,7 +164,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English Movie Channels",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22731/movie-kingdom/thumbv_20200717_232723.jpg" group-title="English Movie Channels",Movie kingdom
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/de/e9/62/dee962cb-e02f-3c8f-f453-c22488bf18fc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="English Movie Channels",DISTRO TV
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWTsTa6.png" group-title="English Movie Channels", Dove Channel 
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
