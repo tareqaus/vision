@@ -222,9 +222,8 @@ http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3
                       ***** Sports *****
                       
                       
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQBFp4jXZthHecBUHHJZPRfvybqxBp9luZTo9Xd=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",ESPN   
-https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8      
-http://stream.tvtap.live:8081/live/espnuk.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIxIDI6MTA6MjQgUE0maGFzaF92YWx1ZT1SL01TMXIyaFBVNG11N0NsVzNUUXR3PT0mdmFsaWRtaW51dGVzPTIw
+  
+      
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Sports",ZIGGO SPORT
 http://stream.tvtap.live:8081/live/nl-ziggoselect.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://watchcricketmatch.com/wp-content/uploads/2020/12/GEO-SUPER-LIVE-LOGO-IMAGE-min.jpg" group-title="Sports",GEO SUPER
