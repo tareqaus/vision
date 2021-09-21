@@ -163,7 +163,8 @@ http://d3lzjtrf5mvf3p.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movie Channels", Star Movies
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-http://jupiter.bdcabletv.com/ENC-17/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="English Movie Channels",&privé HD 
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English Movie Channels", HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Caapww.png" group-title="English Movie Channels", Rakuten TV 
@@ -192,7 +193,7 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 http://stream.tvtap.live:8081/live/us-tnt.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDEyOjAzOjUwIFBNJmhhc2hfdmFsdWU9dzI2aytHNDRuL2k0Nkk0aXdrR05WQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSsitgphmAnO5SWcQ1ENUpTUN89_i93TfnlMI8k=s900-c-k-c0x00ffffff-no-rj" group-title="English Movie Channels", LMN
 http://stream.tvtap.live:8081/live/us-lmn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDEyOjA2OjM4IFBNJmhhc2hfdmFsdWU9SDcxS3Q1aERnYWM0M3hsUktTeXhXQT09JnZhbGlkbWludXRlcz0yMA==                                   
-#EXTINF:-1 tvg-id="STIRRCineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b69e56d9-8aac-4cff-94e2-4d848cd44ead-small3x1_stirr_0120_epg_CineLife_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="English Movie Channel",CineLife
+#EXTINF:-1 tvg-id="STIRRCineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b69e56d9-8aac-4cff-94e2-4d848cd44ead-small3x1_stirr_0120_epg_CineLife_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="English Movie Channels",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 
 
@@ -319,6 +320,8 @@ http://content-ause2-up-1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/f.
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="English Music & Fashion", 1HD Music 
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo=" tvg-logo="https://i.imgur.com/BPS22GM.png" group-title="English Music & Fashion",Brit Asia Live 
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/udp1a1b.png" group-title="English Music & Fashion", MTV Hits 
 http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="English Music & Fashion", Fashion TV Paris 
