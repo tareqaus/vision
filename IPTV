@@ -238,6 +238,7 @@ https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Cricket",T Sports HD
 http://indo51.gcdn.co/BANGLA-BD-GAZITV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Cricket",T Sports FHD 
+http://35.246.214.47:25461/live/21432143/21432143/18452.m3u8?token=ShJcU0BbQQNHCwFaAgcMXAwEAQdTAAZYUgBUB1ZTBQtUAlZWBAcFXQAbGBpEF0dcWF1vWQIXXlAJVlcFSUZGQVRCa1tXEVkbUw8NCw9BGRtNWV1VRA9UTRMSC1NHXhEDAQIAChEfQVwdTVFKWQJZZl1VRlkFUEZbXxcOW0lGXFxuVFFfUl0HG18bBBobQVxKSRIKXhNZCE0TAAtDFwVHVxMKFgEEA1sbSRtXV0INQUtAEgoSJ2BGTRMHGkMACkBbXl4WCBFeUExdGxgaXhBqS1xDREIDVAkEQ0BYFVVGHxBcUUxtUFwNVwBaQFFYDUYbAxIBEkoXCQ5fCxZYFztDW1USDhABC1sLR0Q=
 http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8CJxDY.png" group-title="Live Cricket", Super Sports Cricket
 http://78.129.253.15:8030/ball3/tracks-v1a1/mono.m3u8?token=f0e700697bc90de6e9a08c8b532a66d27ada96dd-1632148847-1632148770
