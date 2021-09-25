@@ -91,7 +91,7 @@ http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aath
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Indian Bangla", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla" Dhoom Music
+#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",Dhoom Music
 http://indo51.gcdn.co/BANGLA-IND-DHOOMMUSIC/tracks-v1a1/mono.m3u8
 
            ***** Hindi Entertainment *****
