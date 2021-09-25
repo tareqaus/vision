@@ -21,6 +21,7 @@ http://ipm.oncast.me:1932/iplived/app-atnbd-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
+http://indo51.gcdn.co/BANGLA-BD-EKUSHEYTV/tracks-v1a1/mono.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla", Gaan Bangla
 http://indo51.gcdn.co/BANGLA-BD-GaanBangla/tracks-v1a1/mono.m3u8
