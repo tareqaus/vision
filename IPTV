@@ -239,7 +239,7 @@ http://78.129.253.15:8030/ball3/tracks-v1a1/mono.m3u8?token=f0e700697bc90de6e9a0
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 2
 http://mu03ye.wanicelife.com:8880/YALM4649/y6q3fhltq/71109
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pBDUYUvBfY89PNoJ_FGQv5JKpFuthGqhfuNlvjKcApIskREcLs3fIMpgL4ENZKWjHZDi" group-title="Live Cricket", Cricket Server 3
-http://starshare.live:8080/live/21432143/21432143/34489.m3u8
+http://35.246.214.47:25461/live/21432143/21432143/24122.m3u8?token=ShJcU0BbQQNHXVAAUgEDXVpTBgADAgZXAlpaD1FXClNUUgABVVdSD1AbGBpEF0dcWF1vWQIXXlMFU1AFSUZGQVRCa1tXEVkbUw8NCw9BGRtNWV1VRA9UTRMSC1NHXhEDAQMHABEfQVwdTVFKWQJZZl1VRlkFUEZbXxcOW0lGXFxuVFFfUl0HG18bBBobQVxKSRIKXhNZCE0TAAtDFwVHVxMKFgALBlobSRtXV0INQUtAEgoSJ2BGTRMHGkMACkBbXl4WCBFeUExdGxgaXhBqS1xDREIDVAkEQ0BYFVVGHxBcUUxtUFwNVwBaQFFYDUYbAxIBEkoXCQ5fCxZYFztDW1USDhACBlEIVxtJ
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1tfVhcW4gdzNEHGWUgSLymYO7R3JZJOkK6Id8Nc9rnX0KgEuAyFOgkC1tuMFrtOmbuU" group-title="Live Cricket", Cricket Server 4
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIxIDI6MTI6MjEgUE0maGFzaF92YWx1ZT1ad3pXVktnak5nS2VCS1J5KzVkM0hnPT0mdmFsaWRtaW51dGVzPTIw
