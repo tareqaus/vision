@@ -372,7 +372,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_126
   
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9U7Y6d.png" group-title="BD IPTV", Alpona TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
+http://tv.bdiptv.com:8081/live/progoti/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="BD IPTV", Bangla TV
 http://indo51.gcdn.co/BANGLA-BD-BanglatvUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l789kW0DDeXjzS0CCZFqypCMfuAub30fMGN3zg=s900-c-k-c0xffffffff-no-rj-mo" group-title="BD IPTV", Biswa Bangla
@@ -385,7 +385,8 @@ http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OTzS5Fc.png" group-title="BD IPTV", ATN Music 
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy5KDaJY5mQnybDUwxBWVNz66rklEzTfPxL0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="BD IPTV", TIME TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/chunks.m3u8
+http://45.127.246.75:1935/starbanglatv/myStream/chunklist_w902426388.m3u8
+
 
 
 
