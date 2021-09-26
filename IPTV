@@ -238,7 +238,7 @@ https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 http://78.129.253.15:8030/ball3/tracks-v1a1/mono.m3u8?token=f0e700697bc90de6e9a08c8b532a66d27ada96dd-1632148847-1632148770
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 2
 http://mu03ye.wanicelife.com:8880/YALM4649/y6q3fhltq/71109
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/95/2e/7e/952e7e8f-e3cf-6bdf-7140-0463647e7d5f/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 3
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pBDUYUvBfY89PNoJ_FGQv5JKpFuthGqhfuNlvjKcApIskREcLs3fIMpgL4ENZKWjHZDi" group-title="Live Cricket", Cricket Server 3
 http://starshare.live:8080/live/21432143/21432143/34489.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1tfVhcW4gdzNEHGWUgSLymYO7R3JZJOkK6Id8Nc9rnX0KgEuAyFOgkC1tuMFrtOmbuU" group-title="Live Cricket", Cricket Server 4
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
@@ -250,11 +250,7 @@ http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8?wmsAu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z1LDOcz.png" group-title="Live Cricket", Fox 501 HD
 http://35.246.214.47:25461/live/21432143/21432143/1856.m3u8?token=ShJcU0BbQQNHDgddDlZUCQBWVAEFBQZZBwdVBlNTBVcEVQYFCgMHXFcbGBpEF0dcWF1vWQIXXlAJV1QbRxFAV0NvXVYRCUEPUwAHABVPF01QXVUSXAVIQ0ELBhVfRgUEARIYEFZLF1wXV1VUaAdQT1BTVRJcWxENXU5AWAs7V1dcUVpWEQlBCUcVFlFEExcDV0VcXEoXBghFEANDAEYJEAIDBQoRH0FaCkxaTEUaFwMbcWUSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCBMBBwsCBUFE
 http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
-#EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Live Cricket", Star Sports 2
-http://35.246.214.47:25461/live/21432143/21432143/1039.m3u8?token=ShJcU0BbQQNHXQBaBAUDDF0JUlJVBgVSU1FRDgFcV1QJVAIEBQtWDAQbGBpEF0dcWF1vWQIXXlABUVsbRxFAV0NvXVYRCUEPUwAHABVPF01QXVUSXAVIQ0ELBhVfRgABBgYWHhFWG00AS1pZWzxRXE9ZU1VEDwoUXQ5OFQoKbFZUXVVcVxFZG1UbGBpeEEUbA15FXAoZRgNYFhBWEQERCBMJAgMRH0FaCkxaTEUaFwMbcWUSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCBMBAAIAB0FE
 http://babutv.aliflailabd.com:8989/star-sports-select2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Live Cricket", Sky Sports Cricket
-https://m01.quest123.top:8088/live/webcricn04/playlist.m3u8?vidictid=188839182023&id=114607&pk=c51a58c374f45b45777f2b0d10d487311f49959d0bdfe7752a32453bcb4639f3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Live Cricket", Sky Sports Cricket FHD Global 
 http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb48364dc6f3803029c84ed58a99bb56993ad53fb5d103eb54030890c8a99ff4d4ac3df2b32b6f274da890d382b30dbbaee94619c48122e2ce4f255bff964a5f91fa65450ec4f90d87a41a97b8e880ded9587fb15437c977&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
 
