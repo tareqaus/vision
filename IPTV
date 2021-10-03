@@ -302,7 +302,6 @@ http://jupiter.bdcabletv.com/SonySix/video.m3u8
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 http://137.59.155.77:8088/hls/03sonyten1.m3u8
 http://jupiter.bdcabletv.com/ENC-19/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD 2
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2 HD
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 http://137.59.155.77:8088/hls/04sonyten2.m3u8
@@ -325,6 +324,7 @@ https://m01.quest123.top:8088/live/webcricp01/playlist.m3u8?vidictid=18877163033
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRUzt942A75N9WqHLP8wlxxUi2-rWEkcseRlHn9=s900-c-k-c0x00ffffff-no-rj" group-title="Sports", Tennis
 http://stream.tvtap.live:8081/live/ustennis.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjQ3OjM4IEFNJmhhc2hfdmFsdWU9cVpBanFUbHI2ZVpiM2I4a1hzQ0UxUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1073335192964587521/6qhJ5cT7.jpg" group-title="Sports", Bein sport Australia
+http://c.mtfxg.xyz:49043/usa/beinsportshd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIxIDExOjMxOjAxIFBNJmhhc2hfdmFsdWU9YSs5QkhpVXVkUFpiZS9JdjJtNnBJUT09JnZhbGlkbWludXRlcz0y
 http://stream.tvtap.live:8081/live/beinus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjU2OjAyIEFNJmhhc2hfdmFsdWU9MFRxMmYxRmJQcTJuOGlZdnpmb2UyUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
