@@ -185,13 +185,13 @@ http://5stariptv.ddns.net/JALWA-LOCKLE/tracks-v1a1/mono.m3u8
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentaries",RT Documentary 
 https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.favpng.com/16/1/13/logo-outdoor-channel-high-definition-television-television-channel-png-favpng-JeAYSamzRX9xEcsFTdp6PFu14.jpg" group-title="Documentaries",Outdoor HD
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
+#EXTINF:-1 tvg-logo="https://img.favpng.com/16/1/13/logo-outdoor-channel-high-definition-television-television-channel-png-favpng-JeAYSamzRX9xEcsFTdp6PFu14.jpg" group-title="Documentaries",Eden
+http://stream.tvtap.live:8081/live/uk-eden.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIxIDc6MDg6MjMgQU0maGFzaF92YWx1ZT1laG93b2NOb2JTa3E2SEQrT2M5WmtRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="Documentaries", BBC Earth
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentaries", Discovery Hindi
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/220px-Asian_Food_Network.svg.png" group-title="Documentaries",AFN
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+http://stream.tvtap.live:8081/live/food-network.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIxIDc6MTA6MjEgQU0maGFzaF92YWx1ZT1aVTNBa0VRdTROUjAxYXlZMVZucU5nPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentaries", National Geographic HD
 http://stream.tvtap.live:8081/live/natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIxIDc6MDY6MjkgQU0maGFzaF92YWx1ZT1YSjhCbzAyWC90S08vZXZMYUdRbGVnPT0mdmFsaWRtaW51dGVzPTIw
 http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8?nimblesessionid=5834143583
