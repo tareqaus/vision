@@ -163,7 +163,8 @@ http://221.120.204.4/8XM-LOCKLE/tracks-v1a1/mono.m3u8
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hungama Music 
 http://185.246.209.209/HINDI_MUSIC_VIDEO/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Hindi Music",Joo Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Hindi Music",Zoom Music
+http://c.mtfxg.xyz:49043/ind1/zoomtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIxIDExOjQyOjQxIFBNJmhhc2hfdmFsdWU9a2VWaGVkUzVyVHlXMzFQZnV1Vk9FUT09JnZhbGlkbWludXRlcz0y
 https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MtunesPlus.in" tvg-country="IN" tvg-language="Hindi tvg-logo="https://i.imgur.com/Rt7k6E3.png" group-title="Hindi Music",Mtunes Plus (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0p2/index.m3u8
