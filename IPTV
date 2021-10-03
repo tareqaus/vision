@@ -378,7 +378,6 @@ http://199.223.252.162:8032/english_adaptive/index.m3u8
 http://stream.tvtap.live:8081/live/us-vh1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjM0OjAzIEFNJmhhc2hfdmFsdWU9d2FjRDcxaWtZYTBvdk90WklKeXliZz09JnZhbGlkbWludXRlcz0yMA==
 http://content-ause2-up-1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/f.m3u8?pbs=0ab75e9ca69641779a9b526d15a72d37
 #EXTINF:-1 tvg-id="" tvg-name="Channel V" tvg-logo="https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo_400x400.jpeg" group-title="English Music & Fashion",Channel V
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="English Music & Fashion", 1HD Music 
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BPS22GM.png" group-title="English Music & Fashion",Brit Asia 
