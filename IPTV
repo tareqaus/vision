@@ -104,7 +104,6 @@ https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTKiYI1K6Bi5_CpRvAjo1_n6t6CJ22rXoPz3d2RqQ=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",DD বাংলা
-http://orangevip.hopto.org:4001/play/a0s9/79592242.m3u8
 http://ahaohoo.com/.1/tv1/play.php?id=2493&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
@@ -161,8 +160,8 @@ http://14.199.164.20:4001/play/a0mt/index.m3u8
 http://221.120.204.4/8XM-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="Hindi Music", B4U Music 
 http://14.199.164.20:4001/play/a0wk/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi Music", 7X Music 
-http://skystar.livebox.co.in/7xtvChannelhls/7xtv7973090372.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hungama Music 
+http://185.246.209.209/HINDI_MUSIC_VIDEO/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Hindi Music", Zoom SK
 http://indo51.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MtunesPlus.in" tvg-country="IN" tvg-language="Hindi tvg-logo="https://i.imgur.com/Rt7k6E3.png" group-title="Hindi Music",Mtunes Plus (576p) [Not 24/7]
