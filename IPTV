@@ -170,8 +170,8 @@ http://14.199.164.20:4001/play/a0p2/index.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8qIZmQ.jpg" group-title="Hindi Music",MH 1
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.imgur.com/udp1a1b.png" group-title="Hindi Music", MTV                                
-http://indo51.gcdn.co/hindi-MTVINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/udp1a1b.png" group-title="Hindi Music",Ary Music                                
+http://livespecial.hjkm.info:11991/minerva/arymusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIxIDEwOjMzOjM4IEFNJmhhc2hfdmFsdWU9ZTNqMTc0SzBqd09FR3BEenhsV3YvQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-logo="" group-title="Hindi Music", 9X Jalwa
 http://5stariptv.ddns.net/JALWA-LOCKLE/tracks-v1a1/mono.m3u8
 
