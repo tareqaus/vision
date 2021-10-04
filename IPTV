@@ -169,7 +169,7 @@ http://14.199.164.20:4001/play/a0p2/index.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8qIZmQ.jpg" group-title="Hindi Music",MH 1
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.imgur.com/udp1a1b.png" group-title="Hindi Music",Ary Music                                
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/518355782945873922/Yn3bDchc_400x400.jpeg" group-title="Hindi Music",Ary Music                                
 http://stream.arylive.com/arymusik/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRKoUAk7eB5XtAXdtP4p3zfRjWHqIm-8KKvz2Zf6A=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Music", 9X Jalwa
 http://5stariptv.ddns.net/JALWA-LOCKLE/tracks-v1a1/mono.m3u8
@@ -269,7 +269,7 @@ http://ux38.gcdn.co/SSCricket/tracks-v1a1/mono.m3u8
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://www.luckonline.eu:8080/live/xQQPlubzY4/TqhGGxr6nl/1065.m3u8
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIxIDI6MTI6MjEgUE0maGFzaF92YWx1ZT1ad3pXVktnak5nS2VCS1J5KzVkM0hnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5fI73pLcGxvDXPF8GG7gK2iD42GVmpD3kQoKbq7MJvcAd1x7AQD63FH7-rwnqKHZrA" group-title="Live Cricket", Fox 501 HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5fI73pLcGxvDXPF8GG7gK2iD42GVmpD3kQoKbq7MJvcAd1x7AQD63FH7-rwnqKHZrA" group-title="Live Cricket",Ten Sports
 http://64.32.4.90/ten-123456/tracks-v1a1/mono.m3u8?token=3bfb4751c764d2cbd71d687dbf1bb1bd9a839284-8805UDZBKBG2ELID-1632740971-1632730171
 http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
@@ -335,7 +335,7 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_
 http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids Channels", Disney Channel English 
 http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids Channels", Nick 
+#EXTINF:-1 tvg-logo="https://www.abc.net.au/cm/rimage/12062208-1x1-large.jpg?v=2" group-title="Kids Channels",ABC Kids 
 http://70.39.83.58:8278/nickhindikdin/playlist.m3u8
 
 
@@ -441,7 +441,7 @@ http://45.64.135.88:8000/stream1
 
                Test code test
 
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 https://crackle-plex.amagi.tv/playlist.m3u8
