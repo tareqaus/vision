@@ -380,7 +380,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mid
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="English Music & Fashion",FashionTV Mumbai 
 https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8  
-#EXTINF:-1 tvg-logo="" group-title="English Music & Fashion ",VIVA Music 
+#EXTINF:-1 tvg-logo="" group-title="English Music & Fashion",VIVA Music 
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
 
