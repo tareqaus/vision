@@ -337,7 +337,7 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids Channels", Cartoon Network English 
 http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids Channels", Disney Channel English 
-http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/cm/rimage/12062208-1x1-large.jpg?v=2" group-title="Kids Channels",ABC Kids 
 http://70.39.83.58:8278/nickhindikdin/playlist.m3u8
 
