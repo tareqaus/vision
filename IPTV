@@ -158,7 +158,7 @@ http://14.199.164.20:4001/play/a0mt/index.m3u8
 http://221.120.204.4/8XM-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="Hindi Music", B4U Music 
 http://14.199.164.20:4001/play/a0wk/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hungama Music 
+#EXTINF:-1 tvg-logo="https://www.thedigitalhash.com/wp-content/uploads/2019/05/hungama1.jpg" group-title="Hindi Music",Hungama Music 
 http://185.246.209.209/HINDI_MUSIC_VIDEO/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Hindi Music",Joo Music
 https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
@@ -171,7 +171,7 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/udp1a1b.png" group-title="Hindi Music",Ary Music                                
 http://stream.arylive.com/arymusik/myStream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi Music", 9X Jalwa
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRKoUAk7eB5XtAXdtP4p3zfRjWHqIm-8KKvz2Zf6A=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Music", 9X Jalwa
 http://5stariptv.ddns.net/JALWA-LOCKLE/tracks-v1a1/mono.m3u8
 
 
@@ -269,7 +269,7 @@ http://ux38.gcdn.co/SSCricket/tracks-v1a1/mono.m3u8
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://www.luckonline.eu:8080/live/xQQPlubzY4/TqhGGxr6nl/1065.m3u8
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIxIDI6MTI6MjEgUE0maGFzaF92YWx1ZT1ad3pXVktnak5nS2VCS1J5KzVkM0hnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z1LDOcz.png" group-title="Live Cricket", Fox 501 HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5fI73pLcGxvDXPF8GG7gK2iD42GVmpD3kQoKbq7MJvcAd1x7AQD63FH7-rwnqKHZrA" group-title="Live Cricket", Fox 501 HD
 http://64.32.4.90/ten-123456/tracks-v1a1/mono.m3u8?token=3bfb4751c764d2cbd71d687dbf1bb1bd9a839284-8805UDZBKBG2ELID-1632740971-1632730171
 http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
@@ -380,7 +380,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mid
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="English Music & Fashion",FashionTV Mumbai 
 https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8  
-#EXTINF:-1 tvg-logo="" group-title="English Music & Fashion",VIVA Music 
+#EXTINF:-1 tvg-logo="https://static.dw.com/image/1246912_4.jpg" group-title="English Music & Fashion",VIVA Music 
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
 
