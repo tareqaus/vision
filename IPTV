@@ -163,9 +163,9 @@ http://221.120.204.4/8XM-LOCKLE/tracks-v1a1/mono.m3u8
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hungama Music 
 http://185.246.209.209/HINDI_MUSIC_VIDEO/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Hindi Music",Zoom Music
-http://c.mtfxg.xyz:49043/ind1/zoomtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIxIDExOjQyOjQxIFBNJmhhc2hfdmFsdWU9a2VWaGVkUzVyVHlXMzFQZnV1Vk9FUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Hindi Music",Joo Music
 https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
+http://c.mtfxg.xyz:49043/ind1/zoomtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIxIDExOjQyOjQxIFBNJmhhc2hfdmFsdWU9a2VWaGVkUzVyVHlXMzFQZnV1Vk9FUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-id="MtunesPlus.in" tvg-country="IN" tvg-language="Hindi tvg-logo="https://i.imgur.com/Rt7k6E3.png" group-title="Hindi Music",Mtunes Plus (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Hindi Music",Masti 
@@ -325,8 +325,7 @@ http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8?wmsAuthSign=c2Vydm
 https://m01.quest123.top:8088/live/webcricp01/playlist.m3u8?vidictid=188771630337&id=113431&pk=c51a58c374f45b45777f2b0d10d487311f49959d0bdfe7752a32453bcb4639f3
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRUzt942A75N9WqHLP8wlxxUi2-rWEkcseRlHn9=s900-c-k-c0x00ffffff-no-rj" group-title="Sports", Tennis
 http://stream.tvtap.live:8081/live/ustennis.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjQ3OjM4IEFNJmhhc2hfdmFsdWU9cVpBanFUbHI2ZVpiM2I4a1hzQ0UxUT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1073335192964587521/6qhJ5cT7.jpg" group-title="Sports", Bein sport Australia
-http://c.mtfxg.xyz:49043/usa/beinsportshd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIxIDExOjMxOjAxIFBNJmhhc2hfdmFsdWU9YSs5QkhpVXVkUFpiZS9JdjJtNnBJUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1073335192964587521/6qhJ5cT7.jpg" group-title="Sports", Bein sport 
 http://stream.tvtap.live:8081/live/beinus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjU2OjAyIEFNJmhhc2hfdmFsdWU9MFRxMmYxRmJQcTJuOGlZdnpmb2UyUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
@@ -413,9 +412,10 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29097
 #EXTINF:-1 tvg-id="" tvg-name="Nandan TV (Canada)" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/0c/71/0e0c71d1-587e-4de6-66cc-1bd1dc23b116/source/512x512bb.jpg" group-title="BD IPTV",Nandan TV  
 http://nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy5KDaJY5mQnybDUwxBWVNz66rklEzTfPxL0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="BD IPTV",Time Television 
-https://live.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy5KDaJY5mQnybDUwxBWVNz66rklEzTfPxL0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="BD IPTV",Star বাংলা 
 http://45.127.246.75:1935/starbanglatv/myStream/chunklist_w902426388.m3u8
+https://live.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8?wmsAuthSign=
+
 
 
 
