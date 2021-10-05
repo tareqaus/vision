@@ -305,12 +305,12 @@ http://jupiter.bdcabletv.com/ENC-19/video.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 http://137.59.155.77:8088/hls/04sonyten2.m3u8
 http://jupiter.bdcabletv.com/ENC-7/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Euro Sport
+#EXTINF:-1 tvg-logo="" group-title="Sports",Super Sport Football ⚽️ ⚽️ 
 http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports Football 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports ⚽️ ⚽️ 
 http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 http://10.amaniyouhra.xyz/live/6161655/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports Football
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports ⚽️ ⚽️ 
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-1-evraziya-ie.png" group-title="Sports",SETANTA SPORTS FOOTBALL 
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
