@@ -172,14 +172,10 @@ http://5stariptv.ddns.net/JALWA-LOCKLE/tracks-v1a1/mono.m3u8
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentaries",RT Documentary 
 https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.favpng.com/16/1/13/logo-outdoor-channel-high-definition-television-television-channel-png-favpng-JeAYSamzRX9xEcsFTdp6PFu14.jpg" group-title="Documentaries",Eden
-http://stream.tvtap.live:8081/live/uk-eden.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIxIDc6MDg6MjMgQU0maGFzaF92YWx1ZT1laG93b2NOb2JTa3E2SEQrT2M5WmtRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentaries", Discovery Hindi
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/220px-Asian_Food_Network.svg.png" group-title="Documentaries",AFN
-http://stream.tvtap.live:8081/live/food-network.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIxIDc6MTA6MjEgQU0maGFzaF92YWx1ZT1aVTNBa0VRdTROUjAxYXlZMVZucU5nPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentaries", National Geographic HD
-http://stream.tvtap.live:8081/live/natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIxIDc6MDY6MjkgQU0maGFzaF92YWx1ZT1YSjhCbzAyWC90S08vZXZMYUdRbGVnPT0mdmFsaWRtaW51dGVzPTIw
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60345
 http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8?nimblesessionid=5834143583
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Documentaries",Love Nature
@@ -198,8 +194,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjg5MzMxNjNf?inline=1" group-title="Documentaries",Journy
 http://d3lzjtrf5mvf3p.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentaries", National Geographic Wild
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60345
+
+
  
 
 
