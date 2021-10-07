@@ -278,9 +278,6 @@ http://137.59.155.77:8088/hls/04sonyten2.m3u8
 http://jupiter.bdcabletv.com/ENC-7/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Super Sport Football ⚽️ ⚽️ 
 http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports ⚽️ ⚽️ 
-http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
-http://10.amaniyouhra.xyz/live/6161655/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports ⚽️ ⚽️ 
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-1-evraziya-ie.png" group-title="Sports",SETANTA SPORTS FOOTBALL ⚽️ ⚽️ 
@@ -290,11 +287,6 @@ http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8?wmsAuthSign=c2
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjBLKMMp/unnamed.jpg" group-title="Sports",BT Sport 2
-http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDIxIDEwOjUyOjQ1IEFNJmhhc2hfdmFsdWU9QTNYZ1p1Q3hoeXBLUlNSdTdRWWdNZz09JnZhbGlkbWludXRlcz0yMA==
-https://m01.quest123.top:8088/live/webcricp01/playlist.m3u8?vidictid=188771630337&id=113431&pk=c51a58c374f45b45777f2b0d10d487311f49959d0bdfe7752a32453bcb4639f3
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRUzt942A75N9WqHLP8wlxxUi2-rWEkcseRlHn9=s900-c-k-c0x00ffffff-no-rj" group-title="Sports", Tennis
-http://stream.tvtap.live:8081/live/ustennis.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjQ3OjM4IEFNJmhhc2hfdmFsdWU9cVpBanFUbHI2ZVpiM2I4a1hzQ0UxUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1073335192964587521/6qhJ5cT7.jpg" group-title="Sports", Bein sport Australia 🇦🇺 
 http://stream.tvtap.live:8081/live/beinus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjU2OjAyIEFNJmhhc2hfdmFsdWU9MFRxMmYxRmJQcTJuOGlZdnpmb2UyUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports",DD Sports
