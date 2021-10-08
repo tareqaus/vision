@@ -279,7 +279,7 @@ http://jupiter.bdcabletv.com/ENC-19/video.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 http://137.59.155.77:8088/hls/04sonyten2.m3u8
 http://jupiter.bdcabletv.com/ENC-7/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Super Sport Football ⚽️ ⚽️ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrYU97z1QrVX4HSRBKKOusroXgpDuSYRN1t10vXYfI0kv2XYgN2j3cquESrf5Nl2kH18&usqp=CAU" group-title="Sports",Super Sport Football ⚽️ ⚽️ 
 http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports ⚽️ ⚽️ 
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIxIDk6NTA6MDggQU0maGFzaF92YWx1ZT00NGx6MlRkSkZsWmR6aG83aVJwWjhBPT0mdmFsaWRtaW51dGVzPTIw
@@ -355,8 +355,7 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
   
   
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T9U7Y6d.png" group-title="BD IPTV",Alpona TV
-https://live.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/playlist.m3u8?wmsAuthSign=
+
 http://tv.bdiptv.com:8081/live/progoti/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="BD IPTV", Bangla TV
 http://208.86.19.13:81/504.stream/index.m3u8
@@ -369,7 +368,7 @@ http://tvflixtn.ddns.net/hls/ekatoortv.m3u8
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29097
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/0c/71/0e0c71d1-587e-4de6-66cc-1bd1dc23b116/source/512x512bb.jpg" group-title="BD IPTV",Nandan TV  
 http://nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy5KDaJY5mQnybDUwxBWVNz66rklEzTfPxL0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="BD IPTV",Star বাংলা 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDn9sx1qEwxFbQWA-O7_lNT05kqLNVtDlTKCNc1nCD9ZLlXqUQNC24dw17U9wFM_GG6ws&usqp=CAU" group-title="BD IPTV",Star বাংলা 
 http://45.127.246.75:1935/starbanglatv/myStream/chunklist_w902426388.m3u8
 https://live.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8?wmsAuthSign=
 
