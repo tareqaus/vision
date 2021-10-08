@@ -221,7 +221,7 @@ http://jupiter.bdcabletv.com/ENC-2/video.m3u8
 https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSsitgphmAnO5SWcQ1ENUpTUN89_i93TfnlMI8k=s900-c-k-c0x00ffffff-no-rj" group-title="English Movie Channels",LMN
 http://stream.tvtap.live:8081/live/us-lmn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIxIDg6MjQ6NTggQU0maGFzaF92YWx1ZT1VbFh2NzBQYTF1eGZLUFUyQ3lqaDhRPT0mdmFsaWRtaW51dGVzPTIw                                   
-#EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b69e56d9-8aac-4cff-94e2-4d848cd44ead-small3x1_stirr_0120_epg_CineLife_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="English Movie Channels",CineLife
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhPETibRe5hVbP5pAV5FN-VHlaaXaMSwUpLiCgZPg=s900-c-k-c0x00ffffff-no-rj" group-title="English Movie Channels",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 
 
