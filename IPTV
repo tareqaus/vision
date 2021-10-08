@@ -262,8 +262,8 @@ http://78.129.253.15:8030/ball1/tracks-v1a1/mono.m3u8?token=dac1926bc279f341cd09
                       
   
       
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Sports",ZIGGO SPORT
-http://stream.tvtap.live:8081/live/nl-ziggoselect.stream/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://watchcricketmatch.com/wp-content/uploads/2020/12/GEO-SUPER-LIVE-LOGO-IMAGE-min.jpg" group-title="Sports",GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six 
@@ -282,16 +282,14 @@ http://jupiter.bdcabletv.com/ENC-7/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Super Sport Football ⚽️ ⚽️ 
 http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports ⚽️ ⚽️ 
-http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIxIDk6NTA6MDggQU0maGFzaF92YWx1ZT00NGx6MlRkSkZsWmR6aG83aVJwWjhBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-1-evraziya-ie.png" group-title="Sports",SETANTA SPORTS FOOTBALL ⚽️ ⚽️ 
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1073335192964587521/6qhJ5cT7.jpg" group-title="Sports", Bein sport Australia 🇦🇺 
-http://stream.tvtap.live:8081/live/beinus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIxIDExOjU2OjAyIEFNJmhhc2hfdmFsdWU9MFRxMmYxRmJQcTJuOGlZdnpmb2UyUT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+http://stream.tvtap.live:8081/live/bein1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIxIDk6NTE6NDYgQU0maGFzaF92YWx1ZT1kZFJOK1U2anlTcWNzWmJxenRuTDh3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo"https://www.coolstreaming.us/img/ch/image72192220623.jpg" group-title="Sports", Dubai Sports 
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
