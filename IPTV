@@ -180,10 +180,6 @@ http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8?nimblesessionid=
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Documentaries",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Documentaries", TLC HD Hindi
-http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentaries", History Channel 
-http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentaries", Animal Planet HD English
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentaries", Travel XP HD 
@@ -219,8 +215,6 @@ http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 http://jupiter.bdcabletv.com/ENC-2/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movie Channels", AXN 
 https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSsitgphmAnO5SWcQ1ENUpTUN89_i93TfnlMI8k=s900-c-k-c0x00ffffff-no-rj" group-title="English Movie Channels",LMN
-http://stream.tvtap.live:8081/live/us-lmn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIxIDg6MjQ6NTggQU0maGFzaF92YWx1ZT1VbFh2NzBQYTF1eGZLUFUyQ3lqaDhRPT0mdmFsaWRtaW51dGVzPTIw                                   
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhPETibRe5hVbP5pAV5FN-VHlaaXaMSwUpLiCgZPg=s900-c-k-c0x00ffffff-no-rj" group-title="English Movie Channels",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 
@@ -279,8 +273,6 @@ http://jupiter.bdcabletv.com/ENC-19/video.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 http://137.59.155.77:8088/hls/04sonyten2.m3u8
 http://jupiter.bdcabletv.com/ENC-7/video.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrYU97z1QrVX4HSRBKKOusroXgpDuSYRN1t10vXYfI0kv2XYgN2j3cquESrf5Nl2kH18&usqp=CAU" group-title="Sports",Super Sport Football ⚽️ ⚽️ 
-http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports ⚽️ ⚽️ 
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIxIDk6NTA6MDggQU0maGFzaF92YWx1ZT00NGx6MlRkSkZsWmR6aG83aVJwWjhBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-1-evraziya-ie.png" group-title="Sports",SETANTA SPORTS FOOTBALL ⚽️ ⚽️ 
