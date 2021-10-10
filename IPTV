@@ -279,7 +279,7 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 http://137.59.155.77:8088/hls/04sonyten2.m3u8
 http://jupiter.bdcabletv.com/ENC-7/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports ⚽️ ⚽️ 
-http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIxIDk6NTA6MDggQU0maGFzaF92YWx1ZT00NGx6MlRkSkZsWmR6aG83aVJwWjhBPT0mdmFsaWRtaW51dGVzPTIw
+http://91.126.138.141:1935/live/barza/chunklist_w1424978066.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-1-evraziya-ie.png" group-title="Sports",SETANTA SPORTS FOOTBALL ⚽️ ⚽️ 
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",Abu Dhabi Sports 2
