@@ -240,12 +240,12 @@ http://104.216.1.166:25461/live/Nador/66263/19344.m3u8?token=SRNbVxcMRFgXVQAGD1J
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://www.luckonline.eu:8080/live/xQQPlubzY4/TqhGGxr6nl/1065.m3u8
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIxIDI6MTI6MjEgUE0maGFzaF92YWx1ZT1ad3pXVktnak5nS2VCS1J5KzVkM0hnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://img2.apksum.com/7b/com.fac.livecrickettv.livematch.cricketmatchlivestreaming/1.2/icon.png" group-title="Live Cricket",Cricket Server 5 🏏
+#EXTINF:-1 tvg-logo="https://img2.apksum.com/7b/com.fac.livecrickettv.livematch.cricketmatchlivestreaming/1.2/icon.png" group-title="Live Cricket",Cricket Server 5  🏏
 http://64.32.4.90/ten-123456/tracks-v1a1/mono.m3u8?token=3bfb4751c764d2cbd71d687dbf1bb1bd9a839284-8805UDZBKBG2ELID-1632740971-1632730171
 http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
 http://babutv.aliflailabd.com:8989/star-sports-select2/index.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/0f/09/58/0f09587c-7d1d-b820-5e2e-0ec7a925e1ea/source/512x512bb.jpg" group-title="Live Cricket",Cricket Server 6 🏏
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/0f/09/58/0f09587c-7d1d-b820-5e2e-0ec7a925e1ea/source/512x512bb.jpg" group-title="Live Cricket",Cricket Server 6  🏏
 http://www.luckonline.eu/Anil/FrCRlmpWHH/502
 http://78.129.253.15:8030/ball1/tracks-v1a1/mono.m3u8?token=dac1926bc279f341cd093ddcba11734114824f92-1633684704-1633684627
 
@@ -263,6 +263,7 @@ http://78.129.253.15:8030/ball1/tracks-v1a1/mono.m3u8?token=dac1926bc279f341cd09
 #EXTINF:-1 tvg-logo="https://watchcricketmatch.com/wp-content/uploads/2020/12/GEO-SUPER-LIVE-LOGO-IMAGE-min.jpg" group-title="Sports",GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six 
+http://ahaohoo.com/.1/tv1/play.php?id=2004&e=.m3u8
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 https://cdn.nowhdtime.com.bd/SonySix/tracks-v1a1/mono.m3u8
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
@@ -285,7 +286,7 @@ https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1073335192964587521/6qhJ5cT7.jpg" group-title="Sports", Bein sport Australia 🇦🇺 
-http://stream.tvtap.live:8081/live/bein1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIxIDk6NTE6NDYgQU0maGFzaF92YWx1ZT1kZFJOK1U2anlTcWNzWmJxenRuTDh3PT0mdmFsaWRtaW51dGVzPTIw
+http://1.yacineapptv.com.global.prod.fastly.net/live/69854211/index.m3u8
 #EXTINF:-1 tvg-logo"https://www.coolstreaming.us/img/ch/image72192220623.jpg" group-title="Sports", Dubai Sports 
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
