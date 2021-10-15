@@ -346,7 +346,9 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BPS22GM.png" group-title="English Music & Fashion",Brit Asia 🎶 🎵 🇬🇧 
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/udp1a1b.png" group-title="English Music & Fashion", MTV Hits 🎶  🎵 🇬🇧 
-http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd  
+http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="" group-title="English Music & Fashion",DSTV 🎶 🎵 
+http://46.249.95.140:8081/hls/data.m3u8  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="English Music & Fashion", Fashion TV Paris 🇫🇷 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="English Music & Fashion", Fashion TV Midnight Secrets 🇺🇸 
