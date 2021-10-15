@@ -298,8 +298,8 @@ https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 http://1.yacineapptv.com.global.prod.fastly.net/live/69854211/index.m3u8
 #EXTINF:-1 tvg-logo"https://www.coolstreaming.us/img/ch/image72192220623.jpg" group-title="Sports", Dubai Sports ⚽️ ⚽️ 🇦🇪 
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-
-       
+#EXTINF:-1 tvg-logo"" group-title="Sports",WEE NETWORK 
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8       
 
     ***** Kids Channels *****
 
