@@ -254,7 +254,10 @@ http://babutv.aliflailabd.com:8989/star-sports-select2/index.m3u8
 http://173.199.120.51/hls/chsp2.m3u8
 http://www.luckonline.eu/Anil/FrCRlmpWHH/502
 http://78.129.253.15:8030/ball1/tracks-v1a1/mono.m3u8?token=dac1926bc279f341cd093ddcba11734114824f92-1633684704-1633684627
-
+#EXTINF:-1 tvg-logo="" group-title="Live Cricket" Cricket Server 7 🏏 
+http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Cricket" World Cup T20 🏏 
+http://64.32.4.90/ten-123456/tracks-v1a1/mono.m3u8?token=3bfb4751c764d2cbd71d687dbf1bb1bd9a839284-8805UDZBKBG2ELID-1632740971-1632730171
 
 
                                        
