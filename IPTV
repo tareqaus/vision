@@ -411,37 +411,9 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8  
 
 
-                      ***** BD IPTV *****
-  
-  
- 
-
-http://tv.bdiptv.com:8081/live/progoti/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="BD IPTV", Bangla TV
-http://208.86.19.13:81/504.stream/index.m3u8
-http://indo51.gcdn.co/BANGLA-BD-BanglatvUK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l789kW0DDeXjzS0CCZFqypCMfuAub30fMGN3zg=s900-c-k-c0xffffffff-no-rj-mo" group-title="BD IPTV", Biswa Bangla
-http://str24.l9574.com/515.stream/index.m3u8
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VWRwY78.png" group-title="BD IPTV",Ekattor
-http://tvflixtn.ddns.net/hls/ekatoortv.m3u8
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29097
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/0c/71/0e0c71d1-587e-4de6-66cc-1bd1dc23b116/source/512x512bb.jpg" group-title="BD IPTV",Nandan TV  
-http://nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDn9sx1qEwxFbQWA-O7_lNT05kqLNVtDlTKCNc1nCD9ZLlXqUQNC24dw17U9wFM_GG6ws&usqp=CAU" group-title="BD IPTV",Star বাংলা 
-http://45.127.246.75:1935/starbanglatv/myStream/chunklist_w902426388.m3u8
-https://live.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8?wmsAuthSign=
+                       ***** FM Radio ***** 
 
 
-
-
-
-             ***** FM Radio ***** 
-
-
-
-
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ni355Vy.png" group-title="FM Radio", Radio Amar (88.4) 
 http://118.179.215.45:8000/;stream/1 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio", Bangladesh Betar (88.8) 
