@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", NTV 🇧🇩 
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8
 http://173.199.120.51/hls/ntv.m3u8
 http://orangeic51.ddns.net/hls/ntv.m3u8
@@ -332,6 +333,7 @@ http://tvflix00.hopto.org/hls/chst1.m3u8
 http://137.59.155.77:8088/hls/03sonyten1.m3u8
 http://jupiter.bdcabletv.com/ENC-19/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2 🏏 ⚽️ 🏒 🇮🇳 
+http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 http://tvflix00.hopto.org/hls/chst2.m3u8
 http://137.59.155.77:8088/hls/04sonyten2.m3u8
