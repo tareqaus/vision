@@ -226,7 +226,7 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movie Channels", Star Movies 🇺🇸 
-http://5stariptv.ddns.net/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+http://182.182.101.49:8000/play/a090/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English Movie Channels", HBO 🇺🇸 
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://public.newsdirect.com/645028319/bRRDz3x0.png" group-title="English Movie Channels",DISTRO TV 🇺🇸 
@@ -260,7 +260,7 @@ https://gtv.banglatv.xyz:2096/bdiptv.stream/LiveSports/playlist.m3u8
 http://104.224.77.164/live/rb0zYNF5GQ/FGWoCyPvwt/2180746.m3u8?token=ShoOVBAJRF5AUAQAWVMBWgIEBVUFBFMGAFcBDFYHCFBVDgBRWgUEBwBEHhBLEBAGVQtuXlAVWAcIXVMPUgEUQURLA0c8CAJGWEQDAwpRW0EYREVeWVJADwlJQUgPUxpZEwxRAVBSREhAA0pGXRYMAlg5VVJCXgFQG18NTQpbFEFeVjlRBgwHCgZECBAIRk5BXRVBFQ5ZF1lVSUFaD0NKAkVdRA9BVVZXWkQeEFsLFw1AFEgVDhU3ZhtJQV0eQ10NQlEJW0FbRAlREwoQFEYLEGsUVERARQdUVAARGlwVCEEdGgtUGz4FCwwIV1FMDQ0NR0QLFQcVThdUCg1RElhKPEFRAhdZQ19WVF8QTw==
 http://mu03ye.wanicelife.com:8880/YALM4649/y6q3fhltq/71109
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pBDUYUvBfY89PNoJ_FGQv5JKpFuthGqhfuNlvjKcApIskREcLs3fIMpgL4ENZKWjHZDi" group-title="Live Cricket", Cricket Server 3  🏏
-http://flussonic.myftp.org:8080/live/Omarholnda01/1261999024/28914.m3u8
+https://live.sonyplex.com/ott/tsports.stream/chunklist_w506813594.m3u8
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 http://nwbz1u.ecm.tm/806B6CF/143120e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ef01782c497704995ee2d5d9f8c8b1ee552817ffe9c9c0737ed17a8209153b8d68697e2655e3e2c0998d3656aa486942d7e827b15fd6a597692846a469abeb0c187477610352ca5660eae1069fd75c420156fc7f5b86f079c1f74149332ce34408d31d59a187c8
 http://speccy.pw:8080/live/d/d/2572.m3u8
