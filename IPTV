@@ -281,29 +281,16 @@ http://104.216.1.166:25461/live/Nador/66263/19344.m3u8?token=SRNbVxcMRFgXVQAGD1J
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://www.luckonline.eu:8080/live/xQQPlubzY4/TqhGGxr6nl/1065.m3u8
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIxIDI6MTI6MjEgUE0maGFzaF92YWx1ZT1ad3pXVktnak5nS2VCS1J5KzVkM0hnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://img2.apksum.com/7b/com.fac.livecrickettv.livematch.cricketmatchlivestreaming/1.2/icon.png" group-title="Live Cricket",Cricket Server 5  🏏
-http://93.157.62.180/Supersport1/index.m3u8
-http://bosstr.net/live/cat54/DpbYpXOhHn/27083.m3u8
-http://64.32.4.90/ten-123456/tracks-v1a1/mono.m3u8?token=3bfb4751c764d2cbd71d687dbf1bb1bd9a839284-8805UDZBKBG2ELID-1632740971-1632730171
-http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
-http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
-http://babutv.aliflailabd.com:8989/star-sports-select2/index.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/0f/09/58/0f09587c-7d1d-b820-5e2e-0ec7a925e1ea/source/512x512bb.jpg" group-title="Live Cricket",Cricket Server 6  🏏
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
-http://ingrid.ltd:25461/live/jfso/BXVhhKh5/42983.m3u8
-http://173.199.120.51/hls/chsp2.m3u8
-http://www.luckonline.eu/Anil/FrCRlmpWHH/502
-http://78.129.253.15:8030/ball1/tracks-v1a1/mono.m3u8?token=dac1926bc279f341cd093ddcba11734114824f92-1633684704-1633684627
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/af/0d/45/af0d45b3-a48e-0906-f878-ccba24e09aa0/source/512x512bb.jpg" group-title="Live Cricket",Cricket Server 7 🏏 
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/af/0d/45/af0d45b3-a48e-0906-f878-ccba24e09aa0/source/512x512bb.jpg" group-title="Live Cricket",Cricket Server 5 🏏 
 http://109.169.15.54:8030/PtvSports/index.m3u8?token=a6409c2341fe45959674456682fd73298982841f-1635548127-1635548050
 http://shark2.dyndns.tv:5808/bd-gazi/tracks-v1a1/mono.m3u8
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.thelivemirror.com/wp-content/uploads/2021/09/t-20-matches.jpg" group-title="Live Cricket", Cricket Server 8 🏏
+#EXTINF:-1 tvg-logo="https://cdn.thelivemirror.com/wp-content/uploads/2021/09/t-20-matches.jpg" group-title="Live Cricket", Cricket Server 6 🏏
 http://195.154.165.193:8030/ball1/index.m3u8?token=5dfaf2f05871b600c954b55fdf791053b5171b48-1634478211-1634478134
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409863403997257728/4Kx1fIBL.jpg" group-title="Live Cricket", Cricket Server 9 🏏 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409863403997257728/4Kx1fIBL.jpg" group-title="Live Cricket", Cricket Server 7 🏏 
 http://64.32.4.90/ten-123456/tracks-v1a1/mono.m3u8?token=3bfb4751c764d2cbd71d687dbf1bb1bd9a839284-8805UDZBKBG2ELID-1632740971-1632730171
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409863403997257728/4Kx1fIBL.jpg" group-title="Live Cricket", Cricket Server 10 🏏 
-http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
+
+
 
 
 
