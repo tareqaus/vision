@@ -116,6 +116,7 @@ https://last.gcdn.co/IND396/tracks-v1a1/mono.m3u8
 http://tvflixtn.ddns.net/hls/sony8.m3u8
 http://ahaohoo.com/.1/tv1/play.php?id=2493&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema 🇮🇳 
+http://208.86.19.21:80/708.stream/index.m3u8
 https://last.gcdn.co/IND398/tracks-v1a1/mono.m3u8
 http://uknet.ddns.net/903.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla",Zee Bangla 🇮🇳 
@@ -133,6 +134,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi Entertainment", Sony Entertainment 🇮🇳 
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi Entertainment", Colors 🇮🇳 
 http://51.79.84.156:8082/ColorsIn/tracks-v1a1/mono.m3u8
@@ -150,7 +152,7 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi Entertainment", Zee Action 🎬 🇮🇳 
-https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+http://208.86.19.21:80/728.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Entertainment",B4U Movies 🎬 🇮🇳 
 http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Hindi Entertainment",Box Cinema 🎬 🇮🇳 
@@ -220,7 +222,6 @@ http://d3lzjtrf5mvf3p.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentaries", National Geographic Wild
 http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentaries", National Geographic HD
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
  
 
@@ -263,12 +264,12 @@ https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1634682932&m
 http://78.129.253.15:8030/ball3/tracks-v1a1/mono.m3u8?token=f0e700697bc90de6e9a08c8b532a66d27ada96dd-1632148847-1632148770
 http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb48364dc6f3803029c84ed58a99bb56993ad53fb5d103eb54030890c8a99ff4d4ac3df2b32b6f274da890d382b30dbbaee94619c48122e2ce4f255bff964a5f91fa65450ec4f90d87a41a97b8e880ded9587fb15437c977&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 2  🏏
-http://208.86.19.21:80/720.stream/index.m3u8
+http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 http://103.77.188.27:1935/live/gtv/chunklist_w1334508598.m3u8
 http://104.224.77.164/live/rb0zYNF5GQ/FGWoCyPvwt/2180746.m3u8?token=ShoOVBAJRF5AUAQAWVMBWgIEBVUFBFMGAFcBDFYHCFBVDgBRWgUEBwBEHhBLEBAGVQtuXlAVWAcIXVMPUgEUQURLA0c8CAJGWEQDAwpRW0EYREVeWVJADwlJQUgPUxpZEwxRAVBSREhAA0pGXRYMAlg5VVJCXgFQG18NTQpbFEFeVjlRBgwHCgZECBAIRk5BXRVBFQ5ZF1lVSUFaD0NKAkVdRA9BVVZXWkQeEFsLFw1AFEgVDhU3ZhtJQV0eQ10NQlEJW0FbRAlREwoQFEYLEGsUVERARQdUVAARGlwVCEEdGgtUGz4FCwwIV1FMDQ0NR0QLFQcVThdUCg1RElhKPEFRAhdZQ19WVF8QTw==
 http://mu03ye.wanicelife.com:8880/YALM4649/y6q3fhltq/71109
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pBDUYUvBfY89PNoJ_FGQv5JKpFuthGqhfuNlvjKcApIskREcLs3fIMpgL4ENZKWjHZDi" group-title="Live Cricket", Cricket Server 3  🏏
-http://103.157.210.165:8000/play/a024/index.m3u8
+http://str24.l9574.com/905.stream/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 http://nwbz1u.ecm.tm/806B6CF/143120e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ef01782c497704995ee2d5d9f8c8b1ee552817ffe9c9c0737ed17a8209153b8d68697e2655e3e2c0998d3656aa486942d7e827b15fd6a597692846a469abeb0c187477610352ca5660eae1069fd75c420156fc7f5b86f079c1f74149332ce34408d31d59a187c8
@@ -277,7 +278,7 @@ http://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635611954&md5
 http://170.178.170.178/star-123456/tracks-v1a1/mono.m3u8?token=f0e2069764caa262426d1a61a9d9de722406b088-TIWMKYBSJZODZ9P6-1632678255-1632667455
 http://ux38.gcdn.co/SSCricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1tfVhcW4gdzNEHGWUgSLymYO7R3JZJOkK6Id8Nc9rnX0KgEuAyFOgkC1tuMFrtOmbuU" group-title="Live Cricket", Cricket Server 4  🏏
-http://qqtv.nl:8080/live/masud/masud/30328.m3u8
+http://jupiter.bdcabletv.com/T-sports_ENC/video.m3u8
 https://last.gcdn.co/IND424/tracks-v1a1/mono.m3u8
 http://103.70.140.27:8080/hls/tsports.m3u8
 https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
@@ -295,6 +296,7 @@ http://208.86.19.21:80/610.stream/index.m3u8
 http://shark2.dyndns.tv:5808/bd-gazi/tracks-v1a1/mono.m3u8
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.thelivemirror.com/wp-content/uploads/2021/09/t-20-matches.jpg" group-title="Live Cricket", Cricket Server 6 🏏
+http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 http://208.86.19.21:80/711.stream/index.m3u8
 http://195.154.165.193:8030/ball1/index.m3u8?token=5dfaf2f05871b600c954b55fdf791053b5171b48-1634478211-1634478134
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409863403997257728/4Kx1fIBL.jpg" group-title="Live Cricket", Cricket Server 7 🏏 
