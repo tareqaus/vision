@@ -308,8 +308,8 @@ https://rtsaiful0.shortcm.li/Tsports-HD.m3u8
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409863403997257728/4Kx1fIBL.jpg" group-title="Live Cricket", Gazi Tv
 http://89.187.185.89:3232/bd-gazi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409863403997257728/4Kx1fIBL.jpg" group-title="Live Cricket", RABITHOLE
-https://tv.doratv.in/bpl-1080p.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409863403997257728/4Kx1fIBL.jpg" group-title="Live Cricket", Total Sports
+http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
 
 
 
