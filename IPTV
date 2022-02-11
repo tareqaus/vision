@@ -293,7 +293,7 @@ http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://www.luckonline.eu:8080/live/xQQPlubzY4/TqhGGxr6nl/1065.m3u8
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIxIDI6MTI6MjEgUE0maGFzaF92YWx1ZT1ad3pXVktnak5nS2VCS1J5KzVkM0hnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/af/0d/45/af0d45b3-a48e-0906-f878-ccba24e09aa0/source/512x512bb.jpg" group-title="Live Cricket",Cricket Server 5 🏏 
-http://livethee.webd.pro/entvm3u8.m3u8?id=24316
+https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/0QBuaUZUGuehZroOiPV7tCae3QvRw4IMBAjOyBn30ls6aWTKcFoHcsH7WM1pynAbL6jidpkJEYvQ-xnElzWzgA/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live
 http://shark2.dyndns.tv:5808/bd-gazi/tracks-v1a1/mono.m3u8
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.thelivemirror.com/wp-content/uploads/2021/09/t-20-matches.jpg" group-title="Live Cricket", Cricket Server 6 🏏
@@ -307,7 +307,7 @@ http://64.32.4.90/ten-123456/tracks-v1a1/mono.m3u8?token=3bfb4751c764d2cbd71d687
 http://103.166.253.222/hls/t-sports.m3u8
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409863403997257728/4Kx1fIBL.jpg" group-title="Live Cricket", Gazi Tv
-https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/0QBuaUZUGuehZroOiPV7tCae3QvRw4IMBAjOyBn30ls6aWTKcFoHcsH7WM1pynAbL6jidpkJEYvQ-xnElzWzgA/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live
+http://103.84.253.5/live/4/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409863403997257728/4Kx1fIBL.jpg" group-title="Live Cricket", Total Sports
 http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
 
