@@ -305,7 +305,7 @@ http://195.154.165.193:8030/ball1/index.m3u8?token=5dfaf2f05871b600c954b55fdf791
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 http://64.32.4.90/ten-123456/tracks-v1a1/mono.m3u8?token=3bfb4751c764d2cbd71d687dbf1bb1bd9a839284-8805UDZBKBG2ELID-1632740971-1632730171
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409863403997257728/4Kx1fIBL.jpg" group-title="Live Cricket", T SPORTS BD
-http://45.127.244.7:8080/hls/channel3.m3u8
+http://103.84.253.5/live/0/index.m3u8
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409863403997257728/4Kx1fIBL.jpg" group-title="Live Cricket", Gazi Tv
 http://45.127.244.7:8080/hls/channel2.m3u8
