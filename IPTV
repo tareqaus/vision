@@ -291,7 +291,7 @@ http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://www.luckonline.eu:8080/live/xQQPlubzY4/TqhGGxr6nl/1065.m3u8
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIxIDI6MTI6MjEgUE0maGFzaF92YWx1ZT1ad3pXVktnak5nS2VCS1J5KzVkM0hnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/af/0d/45/af0d45b3-a48e-0906-f878-ccba24e09aa0/source/512x512bb.jpg" group-title="Live Cricket",Cricket Server 5 🏏 
-https://prod-ec-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/4L6SBS86yMd8wJsLPH1GP0TzQk96aYQTCPZNK5xdNz2iZtLbzGZ6cmbMAicMDAugDAL4zggZl1GBQvp57lTh0g/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
+http://93.152.174.144:4000/play/skysports2/index.m3u8
 live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=239753
 https://prod-ec-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/rNLQM36vKgamN2i74W6sXOLdi_WANXdP2B4_qeHbSb6KnYRtP8_kzpydtUgD5B5Df1cULv8rvDfGgyqshiA8_A/transcode/us-west-2/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 http://shark2.dyndns.tv:5808/bd-gazi/tracks-v1a1/mono.m3u8
