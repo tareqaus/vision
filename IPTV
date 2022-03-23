@@ -343,13 +343,6 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 http://tvflix00.hopto.org/hls/chst2.m3u8
 http://137.59.155.77:8088/hls/04sonyten2.m3u8
 http://jupiter.bdcabletv.com/ENC-7/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports ⚽️ ⚽️ 🇬🇧 
-https://tunelive.net:3412/stream/play.m3u8
-http://65.2.4.240/jioo.php?c=Jio_Football&q=1200&e=.m3u8
-http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-http://91.126.138.141:1935/live/barza/chunklist_w1424978066.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-1-evraziya-ie.png" group-title="Sports",SETANTA SPORTS FOOTBALL ⚽️ ⚽️ 🇨🇦 
-https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",Abu Dhabi Sports 2 ⚽️ ⚽️ 
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
