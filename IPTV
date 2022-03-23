@@ -53,7 +53,7 @@ http://173.199.120.51/hls/deeptotv.m3u8
 http://orangeic51.ddns.net/hls/deeptotv.m3u8
 http://indo51.gcdn.co/BANGLA-BD-DEEPTOTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangla", Gazi TV ⚽️ 🏏 🇧🇩 
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/66060
+http://103.166.253.222/hls/Gazi-TV.m3u8
 http://137.59.155.77:8088/hls/01gazitv.m3u8
                 
                             
@@ -201,7 +201,7 @@ http://5stariptv.ddns.net/JALWA-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentaries",RT Documentary 🇷🇺 
 https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentaries", National Geographic 🇬🇧 
-https://last.gcdn.co/IND414/index.m3u8
+http://live.flixhub.net/hls/ngohd.m3u8
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60345
 http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8?nimblesessionid=5834143583
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
@@ -214,7 +214,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentaries",Nasa TV 🇺🇸 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjg5MzMxNjNf?inline=1" group-title="Documentaries",Journy 🇬🇧 
-http://d3lzjtrf5mvf3p.cloudfront.net/playlist.m3u8
+http://live.flixhub.net/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentaries", National Geographic Wild
 http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentaries", National Geographic HD
