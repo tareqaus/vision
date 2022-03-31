@@ -272,7 +272,7 @@ http://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635611954&md5
 http://170.178.170.178/star-123456/tracks-v1a1/mono.m3u8?token=f0e2069764caa262426d1a61a9d9de722406b088-TIWMKYBSJZODZ9P6-1632678255-1632667455
 http://ux38.gcdn.co/SSCricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1tfVhcW4gdzNEHGWUgSLymYO7R3JZJOkK6Id8Nc9rnX0KgEuAyFOgkC1tuMFrtOmbuU" group-title="Live Cricket", Cricket Server 4  🏏
-https://ib.qqkkqqk.com/live/ch_5.m3u8
+http://93.152.174.144:4000/play/skysports2/index.m3u8
 http://jupiter.bdcabletv.com/T-sports_ENC/video.m3u8
 https://last.gcdn.co/IND424/tracks-v1a1/mono.m3u8
 http://103.70.140.27:8080/hls/tsports.m3u8
