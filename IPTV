@@ -153,7 +153,7 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi Entertainment", Zee Action 🎬 🇮🇳 
-http://208.86.19.21:80/728.stream/index.m3u8
+http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Entertainment",B4U Movies 🎬 🇮🇳 
 http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Hindi Entertainment",Box Cinema 🎬 🇮🇳 
@@ -202,7 +202,7 @@ http://5stariptv.ddns.net/JALWA-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentaries",RT Documentary 🇷🇺 
 https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentaries", National Geographic 🇬🇧 
-http://live.flixhub.net/hls/ngohd.m3u8
+https://livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist.m3u8
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60345
 http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8?nimblesessionid=5834143583
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
