@@ -141,11 +141,12 @@ http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
 http://51.79.84.156:8082/ColorsIn/tracks-v1a1/mono.m3u8
 http://jupiter.bdcabletv.com/ENC-8/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus 
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 http://live.flixhub.net/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi Entertainment", Zee TV 🇮🇳 
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jo0o7op.png" group-title="Hindi Entertainment",Sony Sab 🇮🇳 
-http://uknet.ddns.net/702.stream/index.m3u8
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8?samitv
 http://indo51.gcdn.co/hindi-SONYSABHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Entertainment", Sony Max 🎬 🇮🇳 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
@@ -153,10 +154,12 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi Entertainment", Zee Action 🎬 🇮🇳 
-http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Entertainment",B4U Movies 🎬 🇮🇳 
-http://14.199.164.20:4001/play/a0wj/index.m3u8
+https://itvoign.multitvsolution.com/idvo/bixflixmovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Hindi Entertainment",Box Cinema 🎬 🇮🇳 
+https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
+https://itvoign.multitvsolution.com/idvo/manoranjantv.m3u8
 http://14.199.164.20:4001/play/a0su/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hpizqP6.png" group-title="Hindi Entertainment",Dabangg Movies 🎬 🇮🇳 
 http://14.199.164.20:4001/play/a0nb/index.m3u8
