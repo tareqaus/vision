@@ -137,6 +137,7 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi Entertainment", Colors 🇮🇳 
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
 http://51.79.84.156:8082/ColorsIn/tracks-v1a1/mono.m3u8
 http://jupiter.bdcabletv.com/ENC-8/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus 
@@ -166,17 +167,17 @@ http://14.199.164.20:4001/play/a0qx/index.m3u8
             ***** Hindi Music *****
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRoqeSiXI4gfc9-FmKY0pBzU1p1Uhg8QugiKdiv_w=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Music",ZEE MUSIC 🇮🇳 
-http://hitmusic.hu/hitmusic.m3u8
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Hindi Music", 9X Music 🇮🇳 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FSiZKKO.png" group-title="Hindi Music", Music India 🇮🇳 
 http://14.199.164.20:4001/play/a0mt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VuEsPDV.png" group-title="Hindi Music", 8XM 🇵🇰 
-http://221.120.204.4/8XM-LOCKLE/tracks-v1a1/mono.m3u8
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="Hindi Music", B4U Music 🇮🇳 
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Hindi Music",Hungama Music 🇮🇳 
-http://185.246.209.209/HINDI_MUSIC_VIDEO/tracks-v1a1/mono.m3u8?token=test
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Hindi Music",Joo Music 🇮🇳 
 https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
 http://c.mtfxg.xyz:49043/ind1/zoomtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIxIDExOjQyOjQxIFBNJmhhc2hfdmFsdWU9a2VWaGVkUzVyVHlXMzFQZnV1Vk9FUT09JnZhbGlkbWludXRlcz0y
@@ -231,7 +232,7 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English Movie Channels", HBO 🇺🇸 
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://public.newsdirect.com/645028319/bRRDz3x0.png" group-title="English Movie Channels",DISTRO TV 🇺🇸 
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWTsTa6.png" group-title="English Movie Channels",Dove Channel 🇬🇧 
@@ -272,7 +273,7 @@ http://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635611954&md5
 http://170.178.170.178/star-123456/tracks-v1a1/mono.m3u8?token=f0e2069764caa262426d1a61a9d9de722406b088-TIWMKYBSJZODZ9P6-1632678255-1632667455
 http://ux38.gcdn.co/SSCricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1tfVhcW4gdzNEHGWUgSLymYO7R3JZJOkK6Id8Nc9rnX0KgEuAyFOgkC1tuMFrtOmbuU" group-title="Live Cricket", Cricket Server 4  🏏
-http://93.152.174.144:4000/play/skysports2/index.m3u8
+https://vsd67.mycdn.me/hls/2732194073298.m3u8/sig/_1nc5unaiNs/expires/1655645542348/srcIp/103.156.50.217/clientType/1/srcAg/CHROME_ANDROID/mid/4212469472978/2732194073298_medium/index.m3u8
 http://jupiter.bdcabletv.com/T-sports_ENC/video.m3u8
 https://last.gcdn.co/IND424/tracks-v1a1/mono.m3u8
 http://103.70.140.27:8080/hls/tsports.m3u8
@@ -287,7 +288,7 @@ http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://www.luckonline.eu:8080/live/xQQPlubzY4/TqhGGxr6nl/1065.m3u8
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIxIDI6MTI6MjEgUE0maGFzaF92YWx1ZT1ad3pXVktnak5nS2VCS1J5KzVkM0hnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/af/0d/45/af0d45b3-a48e-0906-f878-ccba24e09aa0/source/512x512bb.jpg" group-title="Live Cricket",Cricket Server 5 🏏 
-http://178.218.196.218:8000/play/a008/index.m3u8
+http://iptvind.in1.bitmana.io/live.php?c=Jio_Cricket&q=1200&e=.m3u8
 live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=239753
 https://prod-ec-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/rNLQM36vKgamN2i74W6sXOLdi_WANXdP2B4_qeHbSb6KnYRtP8_kzpydtUgD5B5Df1cULv8rvDfGgyqshiA8_A/transcode/us-west-2/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 http://shark2.dyndns.tv:5808/bd-gazi/tracks-v1a1/mono.m3u8
