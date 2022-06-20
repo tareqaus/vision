@@ -245,7 +245,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/maste
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 http://jupiter.bdcabletv.com/ENC-2/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movie Channels", AXN 🇺🇸 
-https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
+http://190.83.119.67:8000/play/a0pp/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhPETibRe5hVbP5pAV5FN-VHlaaXaMSwUpLiCgZPg=s900-c-k-c0x00ffffff-no-rj" group-title="English Movie Channels",CineLife 🇦🇺 
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 
@@ -368,7 +368,7 @@ http://ccs2.abcnew.site:8880/6yj6559/1388479770/3083
                                         
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfiUY5l_OBmTWGwd8SygddNMQOD-ynndbw&usqp=CAU" group-title="News Channels",BBC WORLD NEWS 🇬🇧 
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
+http://87.212.248.44:60230/play/a04n/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/18/17/18/al-jazeera-english-television-channel-doha-png-favpng-KwqFnxGnxPXEsnYJrppmJtkWa.jpg" group-title="News Channels",Al Jazeera English Qatar 🇶🇦 
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/521_300.png" group-title="News Channels",ABC NEWS AUSTRALIA 🇦🇺 
@@ -379,8 +379,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UyIJDcE.png" group-title="News Channels", Sky News 🇬🇧 
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/english.jpg" group-title="News Channels",Peace TV English 
-http://199.223.252.162:8032/english_adaptive/index.m3u8
+ 
 
 
 
