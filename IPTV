@@ -105,6 +105,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
                       
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla 🇮🇳 
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+http://103.55.144.46/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla 🇮🇳 
 http://14.199.164.20:4001/play/a0j5/index.m3u8
 https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
@@ -212,7 +213,7 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Documentaries",Love Nature 🇺🇸 
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentaries", Animal Planet HD English 🇬🇧 
-http://live.flixhub.net/hls/animalplanent.m3u8
+http://103.179.246.243:8000/play/a011/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3110a988af3201d9.png" group-title="Documentaries",Redbull TV 🇺🇸 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentaries",Nasa TV 🇺🇸 
