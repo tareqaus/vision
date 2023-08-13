@@ -10,14 +10,14 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision 🇧🇩 
 https://live.bdtv.xyz:2096/token/banglavision/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDExOjUzOjQzIEFNJmhhc2hfdmFsdWU9MUtzdksrc3hObmVPMFh5dkxmcGxqdz09JnZhbGlkbWludXRlcz01
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla", Channel 9 🇧🇩 
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/playlist.m3u8
+http://clients2.google.com/time/1/current?cup2key=6:qPkXO7wV53wirUdLH9U-ZFlXXL6KcSg0SRyWYdDsF58&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 http://tvflixtn.ddns.net/hls/ninechannel.m3u8
 http://tvflix00.hopto.org/hls/chts.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2019/11/139_image.png" group-title="Bangla", ATN Bangla 🇧🇩 
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/index.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television 🇧🇩 
-http://103.106.2.149:13456/btv.m3u8
+http://0nelivezer0.rbtvnw.com:21190/vesta/btv/l_340430069_3756320_134.ts?nimblesessionid=240342350&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDI6Mjg6MDggUE0maGFzaF92YWx1ZT1QSkcxVjFNYnpUU05idyt0LzM5aXRRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV 🇧🇩 
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla", Gaan Bangla 🎶 🎵 🇧🇩 
