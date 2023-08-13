@@ -189,10 +189,9 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movie Channels", Star Movies 🇺🇸 
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+http://zx.rpstv.xyz:8081/ind1/starmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDE6NDE6MTkgUE0maGFzaF92YWx1ZT1YdXpXdjY4Q0pqT0k2QWVFc1VNQlJRPT0mdmFsaWRtaW51dGVzPTImaWQ9MzUyNQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English Movie Channels", HBO 🇺🇸 
-https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+http://zx.rpstv.xyz:8081/usa/hbohd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDE6NDU6MTEgUE0maGFzaF92YWx1ZT03aVFaMjA4TTRMb1ZJemJDd1MyeTJ3PT0mdmFsaWRtaW51dGVzPTImaWQ9Njc1NQ==
 #EXTINF:-1 tvg-logo="https://public.newsdirect.com/645028319/bRRDz3x0.png" group-title="English Movie Channels",DISTRO TV 🇺🇸 
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWTsTa6.png" group-title="English Movie Channels",Dove Channel 🇬🇧 
