@@ -16,31 +16,17 @@ http://tvflix00.hopto.org/hls/chts.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2019/11/139_image.png" group-title="Bangla", ATN Bangla 🇧🇩 
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/index.m3u8?wmsAuthSign=
-http://173.199.120.51/hls/atnbangla.m3u8
-http://orangeic51.ddns.net/hls/atnbangla.m3u8
-http://indo51.gcdn.co/BANGLA-BD-ATNBANGLA-BD/tracks-v1a1/mono.m3u8
-http://ipm.oncast.me:1932/iplived/app-atnbd-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television 🇧🇩 
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV 🇧🇩 
 https://ekusheyserver.com/etvlivesn.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla", Gaan Bangla 🎶 🎵 🇧🇩 
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8
-http://173.199.120.51/hls/gaanbangla.m3u8
-http://orangeic51.ddns.net/hls/gaanbangla.m3u8
-http://indo51.gcdn.co/BANGLA-BD-GaanBangla/tracks-v1a1/mono.m3u8
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/index.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Deepto Tv 🇧🇩 
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
-http://173.199.120.51/hls/deeptotv.m3u8
-http://orangeic51.ddns.net/hls/deeptotv.m3u8
-http://indo51.gcdn.co/BANGLA-BD-DEEPTOTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangla", Gazi TV ⚽️ 🏏 🇧🇩 
 https://09b585bf-7663-44d7-b368-acc96faf0a89.id.repl.co/live/gazi-tv/index.m3u8
-http://103.136.200.246:8082/Gazi-Tv/index.m3u8
+
                 
                             
 
@@ -48,29 +34,13 @@ http://103.136.200.246:8082/Gazi-Tv/index.m3u8
                              
                              
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla News Channels", Channel 24 🇧🇩 
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8
-http://173.199.120.51/hls/channel24.m3u8
-http://orangeic51.ddns.net/hls/channel24.m3u8
-http://indo51.gcdn.co/BANGLA-BD-CHANNEL24/tracks-v1a1/mono.m3u8
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/index.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla News Channels", DBC News 🇧🇩 
-https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
-http://173.199.120.51/hls/dbcnews.m3u8
-http://orangeic51.ddns.net/hls/dbcnews.m3u8
-http://indo51.gcdn.co/BANGLA-BD-DBCNEWS/tracks-v1a1/mono.m3u8
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/index.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla News Channels",Somoy TV 🇧🇩 
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8
-http://173.199.120.51/hls/somoy.m3u8
-http://orangeic51.ddns.net/hls/somoy.m3u8
-http://indo51.gcdn.co/BANGLA-BD-Somoynews/tracks-v1a1/mono.m3u8
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/index.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla News Channels", Jamuna TV 🇧🇩 
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
-http://173.199.120.51/hls/jamunatv.m3u8
-http://orangeic51.ddns.net/hls/jamunatv.m3u8
-http://indo51.gcdn.co/BANGLA-BD-Jamunatv/tracks-v1a1/mono.m3u8
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/index.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla News Channels", Independent TV 🇧🇩 
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/49963
@@ -248,13 +218,13 @@ https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1634682932&m
 http://78.129.253.15:8030/ball3/tracks-v1a1/mono.m3u8?token=f0e700697bc90de6e9a08c8b532a66d27ada96dd-1632148847-1632148770
 http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb48364dc6f3803029c84ed58a99bb56993ad53fb5d103eb54030890c8a99ff4d4ac3df2b32b6f274da890d382b30dbbaee94619c48122e2ce4f255bff964a5f91fa65450ec4f90d87a41a97b8e880ded9587fb15437c977&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 2  🏏
-http://172.16.29.242:8080/fnet/live1/index.m3u8
+https://ddh2.cdndac.lol/ddh2/premium369/tracks-v1a1/mono.m3u8
 http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 http://103.77.188.27:1935/live/gtv/chunklist_w1334508598.m3u8
 http://104.224.77.164/live/rb0zYNF5GQ/FGWoCyPvwt/2180746.m3u8?token=ShoOVBAJRF5AUAQAWVMBWgIEBVUFBFMGAFcBDFYHCFBVDgBRWgUEBwBEHhBLEBAGVQtuXlAVWAcIXVMPUgEUQURLA0c8CAJGWEQDAwpRW0EYREVeWVJADwlJQUgPUxpZEwxRAVBSREhAA0pGXRYMAlg5VVJCXgFQG18NTQpbFEFeVjlRBgwHCgZECBAIRk5BXRVBFQ5ZF1lVSUFaD0NKAkVdRA9BVVZXWkQeEFsLFw1AFEgVDhU3ZhtJQV0eQ10NQlEJW0FbRAlREwoQFEYLEGsUVERARQdUVAARGlwVCEEdGgtUGz4FCwwIV1FMDQ0NR0QLFQcVThdUCg1RElhKPEFRAhdZQ19WVF8QTw==
 http://mu03ye.wanicelife.com:8880/YALM4649/y6q3fhltq/71109
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pBDUYUvBfY89PNoJ_FGQv5JKpFuthGqhfuNlvjKcApIskREcLs3fIMpgL4ENZKWjHZDi" group-title="Live Cricket", Cricket Server 3  🏏
-http://175.107.244.52:4457/play/a08g/index.m3u8
+http://zx.rpstv.xyz:8081/sports1/fox501/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDEyOjI0OjA2IFBNJmhhc2hfdmFsdWU9QlZ2S20zQmgwYzc4c25HQ3dwZXdSQT09JnZhbGlkbWludXRlcz0yJmlkPTk2NTA=
 http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 http://nwbz1u.ecm.tm/806B6CF/143120e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ef01782c497704995ee2d5d9f8c8b1ee552817ffe9c9c0737ed17a8209153b8d68697e2655e3e2c0998d3656aa486942d7e827b15fd6a597692846a469abeb0c187477610352ca5660eae1069fd75c420156fc7f5b86f079c1f74149332ce34408d31d59a187c8
