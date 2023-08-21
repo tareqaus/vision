@@ -167,39 +167,14 @@ http://jupiter.bdcabletv.com/ENC-2/video.m3u8
                ***** Live Cricket *****
                
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/95/2e/7e/952e7e8f-e3cf-6bdf-7140-0463647e7d5f/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 1 🏏 
-https://live.tsports.com/live/tsports_live_720/index.m3u8
+http://45.12.1.14:80/MDKraker/GwWZ9I296/14750
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 2  🏏
-https://ddh2.cdndac.lol/ddh2/premium369/tracks-v1a1/mono.m3u8
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28905
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pBDUYUvBfY89PNoJ_FGQv5JKpFuthGqhfuNlvjKcApIskREcLs3fIMpgL4ENZKWjHZDi" group-title="Live Cricket", Cricket Server 3  🏏
-http://zx.rpstv.xyz:8081/uk/btsports1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDE6MzM6MDkgUE0maGFzaF92YWx1ZT00U3JsVHhDdmhZZ1Y0OVh3anB2aDJBPT0mdmFsaWRtaW51dGVzPTImaWQ9OTg0Ng==
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/3630
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1tfVhcW4gdzNEHGWUgSLymYO7R3JZJOkK6Id8Nc9rnX0KgEuAyFOgkC1tuMFrtOmbuU" group-title="Live Cricket", Cricket Server 4  🏏
-http://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1635386134&md5=pqVRsoX3SzTDdVwG2LAH6g&user=49729ec489674ef3912b6d7cd0822923
-http://s1.urhdiptv.net:8080/live/mma2/45212156/67825.m3u8
-http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
-http://93.152.174.144:4000/play/ss2in/index.m3u8
-http://tvflix00.hopto.org/hls/chsp1.m3u8
-http://104.216.1.166:25461/live/Nador/66263/19344.m3u8?token=SRNbVxcMRFgXVQAGD1JTA1QHBlQBUwMEBFQCAQACXwdWBFBQXF0FAwATSRZEFxMEVw5vCwYSCVBYBQdXTxYTRVdDbF8ARlxAAAhWARVPQxVfDlVAWAAfQxFfV0FZFlQHBAQGFEhGAxpBVBdaVg8+BVMVWQEHEgkPFFpfT0FbCGlWVF5XCgBEWBcARxgVChIRFFleFw5cH0MDX0cRAkADFAgTBwJWUUROF1IKQVkXExgUWRIjNxIfQwRORwYNRw9ZXBMJFAlXE1oXHUddRDwTBEUXQgcDXVYTQwwRU0EYRFtTSWxVCwoIB1ZFDFtZEENbFFIAUkAcEQwOWFoXDEY5RltVEQxGVVRRBAdHSQ==
-http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
-http://www.luckonline.eu:8080/live/xQQPlubzY4/TqhGGxr6nl/1065.m3u8
-http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIxIDI6MTI6MjEgUE0maGFzaF92YWx1ZT1ad3pXVktnak5nS2VCS1J5KzVkM0hnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/af/0d/45/af0d45b3-a48e-0906-f878-ccba24e09aa0/source/512x512bb.jpg" group-title="Live Cricket",Cricket Server 5 🏏 
-https://webudi.openhd.lol/ddy1/premium46/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=239753
-https://prod-ec-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/rNLQM36vKgamN2i74W6sXOLdi_WANXdP2B4_qeHbSb6KnYRtP8_kzpydtUgD5B5Df1cULv8rvDfGgyqshiA8_A/transcode/us-west-2/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-http://shark2.dyndns.tv:5808/bd-gazi/tracks-v1a1/mono.m3u8
-http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.thelivemirror.com/wp-content/uploads/2021/09/t-20-matches.jpg" group-title="Live Cricket", Cricket Server 6 🏏
-https://dai.google.com/linear/hls/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
-http://208.86.19.21:80/711.stream/index.m3u8
-http://195.154.165.193:8030/ball1/index.m3u8?token=5dfaf2f05871b600c954b55fdf791053b5171b48-1634478211-1634478134
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409863403997257728/4Kx1fIBL.jpg" group-title="Live Cricket", Cricket Server 7 🏏 
-https://talgach.xyz/bdix4Join:@fifaxlive.m3u8
-http://64.32.4.90/ten-123456/tracks-v1a1/mono.m3u8?token=3bfb4751c764d2cbd71d687dbf1bb1bd9a839284-8805UDZBKBG2ELID-1632740971-1632730171
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409863403997257728/4Kx1fIBL.jpg" group-title="Live Cricket", Cricket Server 8 🏏 
-https://webudi.openhd.lol/ddy1/premium346/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409863403997257728/4Kx1fIBL.jpg" group-title="Live Cricket", Cricket Live
-http://zx.rpstv.xyz:8081/us1new/bts3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDE6Mzg6NTAgUE0maGFzaF92YWx1ZT02ZUxjMUtUVGFqRTgzcmp4K1lxZzZBPT0mdmFsaWRtaW51dGVzPTImaWQ9ODk1Mg==
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/16633
+
 
 
 
@@ -215,14 +190,7 @@ http://zx.rpstv.xyz:8081/us1new/bts3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9O
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1073335192964587521/6qhJ5cT7.jpg" group-title="Sports", Bein sport Australia 🇦🇺 ⚽️
-http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
-http://88.barouhn.xyz.global.prod.fastly.net:80/live/5151400337/index.m3u8
-https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
-https://cdnx00.koralast.com/UpFiles/2021/10/23/34/202624/720p.m3u8
-http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
-http://sos.moukrasa.xyz/live/645587700/index.m3u8
-https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
-http://1.yacineapptv.com.global.prod.fastly.net/live/69854211/index.m3u8
+
 #EXTINF:-1 tvg-logo"https://www.coolstreaming.us/img/ch/image72192220623.jpg" group-title="Sports", Dubai Sports ⚽️ ⚽️ 🇦🇪 
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo"" group-title="Sports", WWE NETWORK 
