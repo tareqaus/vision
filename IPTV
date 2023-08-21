@@ -110,43 +110,20 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Entertainment",B4U Movies 🎬 🇮🇳 
 http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
 https://itvoign.multitvsolution.com/idvo/bixflixmovies.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Hindi Entertainment",Box Cinema 🎬 🇮🇳 
-https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
-https://itvoign.multitvsolution.com/idvo/manoranjantv.m3u8
-http://14.199.164.20:4001/play/a0su/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hpizqP6.png" group-title="Hindi Entertainment",Dabangg Movies 🎬 🇮🇳 
-http://14.199.164.20:4001/play/a0nb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J930pA1.png" group-title="Hindi Entertainment",Food Food 🇮🇳 
-http://14.199.164.20:4001/play/a0qx/index.m3u8
+
 
 
             ***** Hindi Music *****
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRoqeSiXI4gfc9-FmKY0pBzU1p1Uhg8QugiKdiv_w=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Music",ZEE MUSIC 🇮🇳 
-http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Hindi Music", 9X Music 🇮🇳 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FSiZKKO.png" group-title="Hindi Music", Music India 🇮🇳 
 http://14.199.164.20:4001/play/a0mt/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VuEsPDV.png" group-title="Hindi Music", 8XM 🇵🇰 
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="Hindi Music", B4U Music 🇮🇳 
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Hindi Music",Hungama Music 🇮🇳 
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Hindi Music",Joo Music 🇮🇳 
-https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
-http://c.mtfxg.xyz:49043/ind1/zoomtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIxIDExOjQyOjQxIFBNJmhhc2hfdmFsdWU9a2VWaGVkUzVyVHlXMzFQZnV1Vk9FUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rt7k6E3.png" group-title="Hindi Music",Mtunes Plus 🇮🇳 
-http://14.199.164.20:4001/play/a0p2/index.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Hindi Music",Masti 🇮🇳 
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W8qIZmQ.jpg" group-title="Hindi Music",MH 1 🇮🇳 
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/518355782945873922/Yn3bDchc_400x400.jpeg" group-title="Hindi Music",Ary Music 🇵🇰                               
-http://stream.arylive.com/arymusik/myStream/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRKoUAk7eB5XtAXdtP4p3zfRjWHqIm-8KKvz2Zf6A=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Music", 9X Jalwa 🇮🇳 
-http://5stariptv.ddns.net/JALWA-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 
@@ -154,15 +131,7 @@ http://5stariptv.ddns.net/JALWA-LOCKLE/tracks-v1a1/mono.m3u8
              ***** Documentaries *****
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentaries",RT Documentary 🇷🇺 
-https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentaries", National Geographic 🇬🇧 
-https://livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist.m3u8
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60345
-http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8?nimblesessionid=5834143583
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Documentaries",Love Nature 🇺🇸 
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentaries", Animal Planet HD English 🇬🇧 
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
@@ -170,8 +139,6 @@ https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/i
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentaries",Nasa TV 🇺🇸 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjg5MzMxNjNf?inline=1" group-title="Documentaries",Journy 🇬🇧 
-http://live.flixhub.net/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentaries", National Geographic Wild
 http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentaries", National Geographic HD
@@ -190,15 +157,10 @@ http://zx.rpstv.xyz:8081/ind1/starmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 http://zx.rpstv.xyz:8081/usa/hbohd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDE6NDU6MTEgUE0maGFzaF92YWx1ZT03aVFaMjA4TTRMb1ZJemJDd1MyeTJ3PT0mdmFsaWRtaW51dGVzPTImaWQ9Njc1NQ==
 #EXTINF:-1 tvg-logo="https://public.newsdirect.com/645028319/bRRDz3x0.png" group-title="English Movie Channels",DISTRO TV 🇺🇸 
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WWTsTa6.png" group-title="English Movie Channels",Dove Channel 🇬🇧 
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English Movie Channels", Star World 🇮🇳 
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 http://jupiter.bdcabletv.com/ENC-2/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movie Channels", AXN 🇺🇸 
-http://iptv.prosto.tv:7000/ch50/video.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhPETibRe5hVbP5pAV5FN-VHlaaXaMSwUpLiCgZPg=s900-c-k-c0x00ffffff-no-rj" group-title="English Movie Channels",CineLife 🇦🇺 
-https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+
 
 
 
@@ -249,30 +211,6 @@ http://zx.rpstv.xyz:8081/us1new/bts3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9O
                       ***** Sports *****
                       
                       
-  
-      
-
-
-#EXTINF:-1 tvg-logo="https://watchcricketmatch.com/wp-content/uploads/2020/12/GEO-SUPER-LIVE-LOGO-IMAGE-min.jpg" group-title="Sports",GEO SUPER 🏏 ⚽️ 🇵🇰 
-http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six ⚽️ 🏏 🎾 🇮🇳 
-https://webui.vhls.ru.com/ddy1/premium123/tracks-v1a1/mono.m3u8
-http://ahaohoo.com/.1/tv1/play.php?id=2004&e=.m3u8
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-https://cdn.nowhdtime.com.bd/SonySix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 🏏 ⚽️ 🏒 🇮🇳 
-http://103.179.246.243:8000/play/a00e/index.m3u8
-https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
-http://tvflix00.hopto.org/hls/chst1.m3u8
-http://137.59.155.77:8088/hls/03sonyten1.m3u8
-http://jupiter.bdcabletv.com/ENC-19/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2 🏏 ⚽️ 🏒 🇮🇳 
-http://103.179.246.243:8000/play/a01a/index.m3u8
-http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
-https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-http://tvflix00.hopto.org/hls/chst2.m3u8
-http://137.59.155.77:8088/hls/04sonyten2.m3u8
-http://jupiter.bdcabletv.com/ENC-7/video.m3u8
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",Abu Dhabi Sports 2 ⚽️ ⚽️ 
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
