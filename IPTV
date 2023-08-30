@@ -173,11 +173,11 @@ http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/3630
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/16633
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 5  🏏
 http://livespecial.multistreamz.com:8081/minerva/tensports/playlist.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 6  🏏
+https://hls.rtasport.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 7  🏏
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/95/2e/7e/952e7e8f-e3cf-6bdf-7140-0463647e7d5f/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 8 🏏 
+http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/1c6542f1-dfd5-409f-a202-66dce8330c58.m3u8
                                        
                                        
                       ***** Sports *****
