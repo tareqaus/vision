@@ -178,7 +178,7 @@ https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 7  🏏
 https://rana-pk.xyz/ASIA/play.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/95/2e/7e/952e7e8f-e3cf-6bdf-7140-0463647e7d5f/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 8 🏏 
-http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/1c6542f1-dfd5-409f-a202-66dce8330c58.m3u8
+http://freeiptv25@dpny5.1234.uno:6061/starsports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1tfVhcW4gdzNEHGWUgSLymYO7R3JZJOkK6Id8Nc9rnX0KgEuAyFOgkC1tuMFrtOmbuU" group-title="Live Cricket", Cricket Server 9  🏏                                      
 http://xtv.ooo:8080/335846/335846/167593                                  
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 10  
@@ -186,6 +186,7 @@ http://dpny5.1234.uno:6061/starsports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 11  🏏
 https://tvs1.aynaott.com/sspts1/index.m3u8?hdnts=st=1693995654~exp=1694038854~acl=/*~data=103.159.255.244-WEB~hmac=be312db30c21f7d8ccaf39e145df8f33b54f7f72c849a60298a9b9a39644258a
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 12  🏏                      
+https://vsd128.mycdn.me/hls/5248026282615.m3u8/sig/2Jmx_y7Z9yw/expires/1694075152461/srcIp/103.155.118.209/urls/45.136.20.58/clientType/0/srcAg/CHROME/mid/6636234546807/video.m3u8?p
 https://player.twitch.tv/?channel=hdcopyp&parent=earlyflix.com
 
 
