@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", NTV 🇧🇩 
-http://1161218186.rsc.cdn77.me/NTV/index.m3u8?token=test
+https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/index.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangla", RTV 🇧🇩 
 https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
