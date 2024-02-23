@@ -210,7 +210,7 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 #EXTINF:-1 tvg-logo"" group-title="Sports", WWE NETWORK 
 http://193.58.152.27:7788/WWE/index.m3u8
 #EXTINF:-1 tvg-logo"" group-title="Sports", TNT SPORTS 1
-https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
+http://195.26.87.217/live.ts?channelId=4244&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 tvg-logo"" group-title="Sports", TNT SPORTS 2
 https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
 #EXTINF:-1 tvg-logo"" group-title="Sports", TNT SPORTS 3
