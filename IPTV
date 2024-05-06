@@ -25,7 +25,7 @@ https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Deepto Tv 🇧🇩 
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangla", Gazi TV ⚽️ 🏏 🇧🇩 
-https://cdn.sajeeb.online/cricket/index.m3u8
+http://103.151.60.214:7444/1102/video.m3u8
 https://live.tsports.com/live/tsports_live_720/index.m3u8?fbclid=IwAR1vFxRGpKYhv7GX60VJP16KP-l9LVv-smt7xTO6VCdxXmzvMQVpC18Dnas
                 
                             
@@ -73,7 +73,7 @@ https://last.gcdn.co/IND396/tracks-v1a1/mono.m3u8
 http://tvflixtn.ddns.net/hls/sony8.m3u8
 http://ahaohoo.com/.1/tv1/play.php?id=2493&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema 🇮🇳 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155771&extension=ts&play_token=otM0DQF4Ff
 https://last.gcdn.co/IND398/tracks-v1a1/mono.m3u8
 http://uknet.ddns.net/903.stream/index.m3u8
@@ -182,17 +182,17 @@ http://121.91.61.106:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 6  🏏
 http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 7  🏏
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2174.ts
+https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/95/2e/7e/952e7e8f-e3cf-6bdf-7140-0463647e7d5f/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 8 🏏 
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2145.ts
+https://mahabubur@bunyhlsipla.bunycdn.com/live/720pa.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1tfVhcW4gdzNEHGWUgSLymYO7R3JZJOkK6Id8Nc9rnX0KgEuAyFOgkC1tuMFrtOmbuU" group-title="Live Cricket", Cricket Server 9  🏏                                      
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1757.ts                               
+https://freeiptv25.netlify.app/live/bdix/app/ASPCRI.m3u8                             
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 10  
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1067.ts
+https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 11  🏏
-https://live.tsports.com/live/tsports_live_720/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium369/index.m3u8?
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 12  🏏                      
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2174.ts
+http://103.151.60.214:7444/1101/video.m3u8
 
 
 
