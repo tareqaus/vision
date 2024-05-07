@@ -75,29 +75,21 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155776&extensi
            ***** Hindi Entertainment *****
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi Entertainment", Sony Entertainment 🇮🇳 
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi Entertainment", Sony Entertainment 
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi Entertainment", Colors 🇮🇳 
-http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
-http://51.79.84.156:8082/ColorsIn/tracks-v1a1/mono.m3u8
+http://170.254.18.107/COLORS/index.m3u8
 http://jupiter.bdcabletv.com/ENC-8/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus 
-http://144.217.70.181:9587/hin2/STARPLUSUK/index.m3u8?token=test&v=697229347
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi Entertainment", Zee TV 🇮🇳 
-http://indilive.multistreamz.com:8081/juno/zeetvhd/chunks.m3u8
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jo0o7op.png" group-title="Hindi Entertainment",Sony Sab 🇮🇳 
-https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8
+https://freeiptv25.netlify.app/live/bdix/app/Starplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Entertainment", Sony Max 🎬 🇮🇳 
 http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Entertainment", Zee Cinema 🎬 🇮🇳 
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Entertainment",B4U Movies 🎬 🇮🇳 
-http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
-https://itvoign.multitvsolution.com/idvo/bixflixmovies.m3u8
+http://170.254.18.107/ZEECINEMA/index.m3u8
+
+
+
+
 
 
 
