@@ -134,13 +134,13 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movie Channels", Star Movies 🇺🇸 
-http://112.196.61.212:9292/STAR_MOVIES_FHD_VIDECON/index.m3u8
+https://freeiptv25.netlify.app/live/bdix/app/Starmovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English Movie Channels", HBO 🇺🇸 
 http://zx.rpstv.xyz:8081/usa/hbohd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDE6NDU6MTEgUE0maGFzaF92YWx1ZT03aVFaMjA4TTRMb1ZJemJDd1MyeTJ3PT0mdmFsaWRtaW51dGVzPTImaWQ9Njc1NQ==
 #EXTINF:-1 tvg-logo="https://public.newsdirect.com/645028319/bRRDz3x0.png" group-title="English Movie Channels",DISTRO TV 🇺🇸 
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English Movie Channels", Star World 🇮🇳 
-http://jupiter.bdcabletv.com/ENC-2/video.m3u8
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 
 
