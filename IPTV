@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", NTV 🇧🇩 
-https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/index.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangla", RTV 🇧🇩 
 https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
@@ -19,11 +19,11 @@ https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television 🇧🇩 
 http://appcdn.jagobd.com:1933/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV 🇧🇩 
-https://ekusheyserver.com/etvlivesn.m3u8
+http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla", Gaan Bangla 🎶 🎵 🇧🇩 
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/index.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Deepto Tv 🇧🇩 
-https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Green Tv 🇧🇩 
+https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangla", Gazi TV ⚽️ 🏏 🇧🇩 
 http://103.151.60.214:7444/1102/video.m3u8
 https://live.tsports.com/live/tsports_live_720/index.m3u8?fbclid=IwAR1vFxRGpKYhv7GX60VJP16KP-l9LVv-smt7xTO6VCdxXmzvMQVpC18Dnas
@@ -192,22 +192,19 @@ http://103.151.60.214:7444/1101/video.m3u8
                    ***** Sports *****
                       
                       
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",Abu Dhabi Sports 2 ⚽️ ⚽️ 
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1073335192964587521/6qhJ5cT7.jpg" group-title="Sports", Bein sport Australia 🇦🇺 ⚽️
 https://hls.rtasport.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo"https://www.coolstreaming.us/img/ch/image72192220623.jpg" group-title="Sports", Dubai Sports ⚽️ ⚽️ 🇦🇪 
+#EXTINF:-1 tvg-logo"https://www.coolstreaming.us/img/ch/image72192220623.jpg" group-title="Sports", Sports 1 ⚽️ ⚽️ 🇦🇪 
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo"" group-title="Sports", WWE NETWORK 
 http://193.58.152.27:7788/WWE/index.m3u8
 #EXTINF:-1 tvg-logo"" group-title="Sports", TNT SPORTS 1
 http://195.26.87.217/live.ts?channelId=4244&uid=3453&deviceMac=00:1A:79:01:04:AC
-#EXTINF:-1 tvg-logo"" group-title="Sports", TNT SPORTS 2
+#EXTINF:-1 tvg-logo"" group-title="Sports", SPORTS 2
 https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
-#EXTINF:-1 tvg-logo"" group-title="Sports", TNT SPORTS 3
+#EXTINF:-1 tvg-logo"" group-title="Sports", SPORTS 3
 https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
-#EXTINF:-1 tvg-logo"" group-title="Sports", TNT SPORTS 4
+#EXTINF:-1 tvg-logo"" group-title="Sports", SPORTS 4
 https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 
 
