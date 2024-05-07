@@ -113,10 +113,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentaries",Nasa TV 🇺🇸 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentaries", National Geographic Wild
-http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
+https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentaries", National Geographic HD
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
- 
+https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
 
 
 
@@ -188,13 +187,13 @@ https://kusnadipepenk.github.io/ntn/elesp2.m3u8
                                         
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfiUY5l_OBmTWGwd8SygddNMQOD-ynndbw&usqp=CAU" group-title="News Channels",BBC WORLD NEWS 🇬🇧 
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/18/17/18/al-jazeera-english-television-channel-doha-png-favpng-KwqFnxGnxPXEsnYJrppmJtkWa.jpg" group-title="News Channels",Al Jazeera English Qatar 🇶🇦 
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/521_300.png" group-title="News Channels",ABC NEWS AUSTRALIA 🇦🇺 
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/05/CNN-Logo.jpg" group-title="News Channels",CNN 🇺🇸 
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/23-233552_abc-news-logo-vector.png" group-title="News Channels",ABC News 🇺🇸 
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UyIJDcE.png" group-title="News Channels", Sky News 🇬🇧 
@@ -256,49 +255,5 @@ http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
 http://45.64.135.88:8000/stream1
 
 
-               Test code test
-
-http://14.199.164.20:4001/play/a0o8/52459410.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-https://crackle-plex.amagi.tv/playlist.m3u8
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
-https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
-https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport2
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-http://d3lzjtrf5mvf3p.cloudfront.net/playlist.m3u8
-https://c.mjh.nz/101002210221
-https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
-https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
-https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
-https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
-https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
-https://c.mjh.nz/101002210222
-https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
-http://partwo.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/playlist.m3u8
-https://mhdtv.world/max.php?id=42385&e=.m3u8
-http://stream1.livebox.co.in/kbcreationhls/live.m3u8
-http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
-https://idvd.multitvsolution.com:443/idvo/ddsports_540p/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
+               
 
