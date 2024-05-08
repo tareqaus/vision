@@ -74,6 +74,7 @@ http://jupiter.bdcabletv.com/ENC-8/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus 
 https://freeiptv25.netlify.app/live/bdix/app/Starplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Entertainment", Sony Max 🎬 🇮🇳 
+http://119.156.26.155:8000/play/a07r
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Entertainment", Zee Cinema 🎬 🇮🇳 
 http://170.254.18.107/ZEECINEMA/index.m3u8
