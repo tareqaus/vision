@@ -139,6 +139,7 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
                ***** Live Cricket *****
                
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/95/2e/7e/952e7e8f-e3cf-6bdf-7140-0463647e7d5f/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 1 🏏 
+https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1300.m3u8
 http://wrjhlu4b.russtv.net/iptv/PGMVE4ZAYXCPWR/9258/index.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 2  🏏
 http://wrjhlu4b.russtv.net/iptv/PGMVE4ZAYXCPWR/31131/index.m3u8
@@ -161,9 +162,10 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 11  🏏
 https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 12  🏏   
-https://tv5.hoichoi24.com/1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/98/4c/e7984c0d-8155-bb30-e43d-158c972785a4/source/512x512bb.jpg" group-title="Live Cricket", Cricket Server 12  🏏 
 http://103.151.60.214:7444/1101/video.m3u8
+https://tv5.hoichoi24.com/1000/tracks-v1a1/mono.m3u8
+
 
 
 
