@@ -175,18 +175,15 @@ https://tv5.hoichoi24.com/1000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1073335192964587521/6qhJ5cT7.jpg" group-title="Sports", Bein sport Australia 🇦🇺 ⚽️
 https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo"https://www.coolstreaming.us/img/ch/image72192220623.jpg" group-title="Sports", Sports 1 ⚽️ ⚽️ 🇦🇪 
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo"" group-title="Sports", WWE NETWORK 
-http://193.58.152.27:7788/WWE/index.m3u8
-#EXTINF:-1 tvg-logo"" group-title="Sports", TNT SPORTS 1
 http://195.26.87.217/live.ts?channelId=4244&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 tvg-logo"" group-title="Sports", SPORTS 2
-https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo"" group-title="Sports", SPORTS 3
 https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
 #EXTINF:-1 tvg-logo"" group-title="Sports", SPORTS 4
-https://kusnadipepenk.github.io/ntn/elesp2.m3u8
-
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=
 
                    ***** News Channels *****
                                         
