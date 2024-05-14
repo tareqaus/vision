@@ -192,6 +192,7 @@ https://kusnadipepenk.github.io/ntn/elesp2.m3u8
                                         
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfiUY5l_OBmTWGwd8SygddNMQOD-ynndbw&usqp=CAU" group-title="News Channels",BBC WORLD NEWS 🇬🇧 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/18/17/18/al-jazeera-english-television-channel-doha-png-favpng-KwqFnxGnxPXEsnYJrppmJtkWa.jpg" group-title="News Channels",Al Jazeera English Qatar 🇶🇦 
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
