@@ -177,7 +177,7 @@ https://tv5.hoichoi24.com/1000/tracks-v1a1/mono.m3u8
                       
                       
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1073335192964587521/6qhJ5cT7.jpg" group-title="Sports", Bein sport Australia 🇦🇺 ⚽️
-https://hls.rtasport.live/hls/stream.m3u8
+http://143.244.60.16:49893/ghLs2zdZSnFvTT000014a8212f4c8b6c223080aff6647a42806ec964/index.m3u8?token=d705b84e810c2f89a923aa3dd79acc23
 #EXTINF:-1 tvg-logo"https://www.coolstreaming.us/img/ch/image72192220623.jpg" group-title="Sports", Sports 1 ⚽️ ⚽️ 🇦🇪 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo"" group-title="Sports", WWE NETWORK 
