@@ -15,6 +15,7 @@ http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television 🇧🇩 
 https://freeiptv25.netlify.app/live/bdix/app/Btv.m3u8
+http://cdn01.palki.tv:80/live/MaasrangaTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV 🇧🇩 
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla", Gaan Bangla 🎶 🎵 🇧🇩 
@@ -73,6 +74,7 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 http://170.254.18.107/COLORS/index.m3u8
 http://jupiter.bdcabletv.com/ENC-8/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus 
+http://watchindia.net:8880/live/83023/62335/1924.m3u8
 https://freeiptv25.netlify.app/live/bdix/app/Starplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Entertainment", Sony Max 🎬 🇮🇳 
 http://170.254.18.107/SONYMAX/index.m3u8
@@ -191,6 +193,9 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=7610
 http://441633438915706105.ofsd5513.xyz:80/live/2KPEDCM9RW/sWv5T3vuds5/706105.ts
 #EXTINF:-1 tvg-logo"https://www.coolstreaming.us/img/ch/image72192220623.jpg" group-title="Sports", Sports 1 ⚽️ ⚽️ 🇦🇪 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+https://test-tan-iota-90.vercel.app/live/bdix/app/SonySports1.m3u8
+https://test-tan-iota-90.vercel.app/live/bdix/app/SonySports2.m3u8
+https://test-tan-iota-90.vercel.app/live/bdix/app/sscri.m3u8
 #EXTINF:-1 tvg-logo"" group-title="Sports", WWE NETWORK 
 http://195.26.87.217/live.ts?channelId=4244&uid=3453&deviceMac=00:1A:79:01:04:AC
 http://154.6.193.139:8080/live/play/TTFGS1lVSkRRbXhEWVROd1NWUkxNVzU2VERCaVptWlRXVk5aV0dWR2REUm9VRkJ2ZFZWSVN5czVPRDA9/287479
