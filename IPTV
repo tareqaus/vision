@@ -304,7 +304,7 @@ https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a0
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-id="C31Melbourne.au" group-title="Australia",C31 Melbourne (240p)
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 tvg-id="Channel7Sydney.au" group-title="Australia"Channel 7 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Channel7Sydney.au" group-title="Australia",Channel 7 (720p) [Geo-blocked]
 https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
 #EXTINF:-1 tvg-id="Channel9Sydney.au" group-title="Australia",Channel 9 Sydney (720p) [Geo-blocked]
 https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
