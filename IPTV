@@ -260,9 +260,9 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_126
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3AW.au" group-title="Australia",3AW Melbourne (1080p)
 https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
-#EXTINF:-1 tvg-id="3TamilTV.au",3 Tamil TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="3TamilTV.au" group-title="Australia",3 Tamil TV (720p) [Not 24/7]
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-id="6PR.au",6PR Perth (1080p)
+#EXTINF:-1 tvg-id="6PR.au" group-title="Australia",6PR Perth (1080p)
 https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
 #EXTINF:-1 tvg-id="9GemSydney.au" group-title="Australia" ,9Gem (720p) [Geo-blocked]
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
