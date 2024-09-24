@@ -330,6 +330,86 @@ https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
 #EXTINF:-1 tvg-id="TVSN.au" group-title="Australia",TVSN (1080p)
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 
+            ....Opplex.....
+
+
+#EXTINF:-1,PK: PTV SPORTS
+http://opplex.tv:8080/3116580700/0700/167567
+#EXTINF:-1,PK: PTV SPORTS HD
+http://opplex.tv:8080/3116580700/0700/217968
+#EXTINF:-1,PK | Geo Super HD
+http://opplex.tv:8080/3116580700/0700/167568
+#EXTINF:-1,PK: TEN SPORTS
+http://opplex.tv:8080/3116580700/0700/167569
+#EXTINF:-1,T20 WORLD CUP 01
+http://opplex.tv:8080/3116580700/0700/219643
+#EXTINF:-1,PK: A Sports HD (Server 1)
+http://opplex.tv:8080/3116580700/0700/219689
+#EXTINF:-1,PK: A Sports HD (Server 2)
+http://opplex.tv:8080/3116580700/0700/221417
+#EXTINF:-1,IN | Sony Ten 1 HD
+http://opplex.tv:8080/3116580700/0700/167570
+#EXTINF:-1,IN | Sony Ten 2 HD
+http://opplex.tv:8080/3116580700/0700/167571
+#EXTINF:-1,IN | Sony Ten 3 HD
+http://opplex.tv:8080/3116580700/0700/167572
+#EXTINF:-1,IN: Sony Ten 4
+http://opplex.tv:8080/3116580700/0700/167595
+#EXTINF:-1,CRI: Ten Cricket
+http://opplex.tv:8080/3116580700/0700/167587
+#EXTINF:-1,IN: STAR SPORTS 1 Hindi
+http://opplex.tv:8080/3116580700/0700/167573
+#EXTINF:-1,IN: Star Sports tamil 1
+http://opplex.tv:8080/3116580700/0700/167574
+#EXTINF:-1,IN | Star Sports 1 HD
+http://opplex.tv:8080/3116580700/0700/167575
+#EXTINF:-1,IN | Star Sports 2 HD
+http://opplex.tv:8080/3116580700/0700/167576
+#EXTINF:-1,IN | Star Sports 3 HD
+http://opplex.tv:8080/3116580700/0700/167577
+#EXTINF:-1,IN | STAR SPORTS SELECT 1
+http://opplex.tv:8080/3116580700/0700/167578
+#EXTINF:-1,IN | STAR SPORTS SELECT 2
+http://opplex.tv:8080/3116580700/0700/167579
+#EXTINF:-1,IN | SONY TEN 5
+http://opplex.tv:8080/3116580700/0700/167580
+#EXTINF:-1,IN | Astro Cricket HD
+http://opplex.tv:8080/3116580700/0700/167581
+#EXTINF:-1,SuperSport Cricket
+http://opplex.tv:8080/3116580700/0700/167592
+#EXTINF:-1,AU: FOX CRICKET 501
+http://opplex.tv:8080/3116580700/0700/167593
+#EXTINF:-1,UK: Sky Sports Cricket
+http://opplex.tv:8080/3116580700/0700/167594
+#EXTINF:-1,IN | Willow Xtra
+http://opplex.tv:8080/3116580700/0700/167582
+#EXTINF:-1,IN: Willow Cricket HD
+http://opplex.tv:8080/3116580700/0700/167583
+#EXTINF:-1,BS | beIN SPORT CRICKET
+http://opplex.tv:8080/3116580700/0700/167584
+#EXTINF:-1,IN: EUROSPORT HD
+http://opplex.tv:8080/3116580700/0700/167585
+#EXTINF:-1,IN: 1SPORTS
+http://opplex.tv:8080/3116580700/0700/167586
+#EXTINF:-1,IN: DD Sports
+http://opplex.tv:8080/3116580700/0700/167588
+#EXTINF:-1,T-SPORTS
+http://opplex.tv:8080/3116580700/0700/167590
+#EXTINF:-1,AFG: RTA SPORTS
+http://opplex.tv:8080/3116580700/0700/167591
+#EXTINF:-1,IND: jio Cricket
+http://opplex.tv:8080/3116580700/0700/206297
+#EXTINF:-1,UK: TNT Sport 2 CRICKET
+http://opplex.tv:8080/3116580700/0700/206566
+#EXTINF:-1,PK: MAQ TV CRICKET
+http://opplex.tv:8080/3116580700/0700/207190
+#EXTINF:-1,NZ: SKY Sport Cricket 3
+http://opplex.tv:8080/3116580700/0700/217530
+
+
+
+
+
 
                   ***** FM Radio ***** 
 
